@@ -1,0 +1,980 @@
+{
+  "results":[
+    {
+      "adult": false,
+      "backdrop_path": "/19URihLRPW7r2sFSvjpFZDKfrAM.jpg",
+      "belongs_to_collection": {
+        "id": 465560,
+        "name": "The Zero Century",
+        "poster_path": "/hdMZPUIuoi0hs6aFxELO0jkX7z2.jpg",
+        "backdrop_path": "/oj2aSnukKfvgPAYxVCJbFlkzzKG.jpg"
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        },
+        {
+          "id": 16,
+          "name": "Animation"
+        }
+      ],
+      "homepage": "http://zero-century.net/",
+      "id": 465559,
+      "imdb_id": "tt7111040",
+      "original_language": "ja",
+      "original_title": "零世紀 メーテル",
+      "overview": "The story of Princess Maetel and how she came to start her timeless train trip on the Galaxy Express 999.",
+      "popularity": 0.6,
+      "poster_path": "/oFbrPffgM94psqkdxiXMTlCvCtU.jpg",
+      "production_companies": [
+        {
+          "id": 3041,
+          "logo_path": "/j9VqEdiNqIkMJKku1UTGMAvmuRr.png",
+          "name": "GAINAX",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "release_date": "2026-01-01",
+      "revenue": 0,
+      "runtime": null,
+      "spoken_languages": [
+        {
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Planned",
+      "tagline": "",
+      "title": "The Zero Century: Maetel",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/19URihLRPW7r2sFSvjpFZDKfrAM.jpg",
+      "belongs_to_collection": {
+        "id": 465560,
+        "name": "The Zero Century",
+        "poster_path": "/hdMZPUIuoi0hs6aFxELO0jkX7z2.jpg",
+        "backdrop_path": "/oj2aSnukKfvgPAYxVCJbFlkzzKG.jpg"
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        },
+        {
+          "id": 16,
+          "name": "Animation"
+        }
+      ],
+      "homepage": "http://zero-century.net/",
+      "id": 465558,
+      "imdb_id": "tt7110972",
+      "original_language": "ja",
+      "original_title": "零世紀 ハーロック",
+      "overview": "The story of Space Pirate Captain Harlock.",
+      "popularity": 1.4,
+      "poster_path": "/eYMm4LYgUgHqdAzVJQ55reOEGlU.jpg",
+      "production_companies": [
+        {
+          "id": 3041,
+          "logo_path": "/j9VqEdiNqIkMJKku1UTGMAvmuRr.png",
+          "name": "GAINAX",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "release_date": "2023-01-01",
+      "revenue": 0,
+      "runtime": null,
+      "spoken_languages": [
+        {
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Planned",
+      "tagline": "",
+      "title": "The Zero Century: Harlock",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10752,
+          "name": "War"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        },
+        {
+          "id": 16,
+          "name": "Animation"
+        }
+      ],
+      "homepage": null,
+      "id": 381344,
+      "imdb_id": "tt2789530",
+      "original_language": "ja",
+      "original_title": "Aoki uru",
+      "overview": "The new generation of the Royal Space Force and their endeavors to make it to space.",
+      "popularity": 0.6,
+      "poster_path": "/iXJOUf644gX42K2PNuFJnlThC6U.jpg",
+      "production_companies": [
+        {
+          "id": 112920,
+          "logo_path": "/h4soUI8eYfxBV925RCZ59piTwt3.png",
+          "name": "Gaina",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "release_date": "2022-12-31",
+      "revenue": 0,
+      "runtime": null,
+      "spoken_languages": [
+        {
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "In Production",
+      "tagline": "",
+      "title": "Uru in Blue",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "belongs_to_collection": {
+        "id": 390636,
+        "name": "Fate/stay night - Heaven's Feel Trilogy",
+        "poster_path": "/AjCEPQMVvCCzVEKXUdLiYYGQz3Y.jpg",
+        "backdrop_path": "/3hsHtu42XRBYLFre4wiVEfir5gP.jpg"
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        }
+      ],
+      "homepage": "http://www.fate-sn.com/",
+      "id": 390635,
+      "imdb_id": "tt8092118",
+      "original_language": "ja",
+      "original_title": "劇場版 Fate／stay night [Heaven's Feel] III.spring song",
+      "overview": "Theatrical-release adaptation of the visual novel \"Fate/stay night\", following the third and final route. (Final part of a trilogy.)",
+      "popularity": 4.43,
+      "poster_path": "/ArfwXIJhaD2EbJyPLCfazY1wJDb.jpg",
+      "production_companies": [
+        {
+          "id": 53787,
+          "logo_path": null,
+          "name": "TYPE-MOON",
+          "origin_country": ""
+        },
+        {
+          "id": 5887,
+          "logo_path": "/m6FEqz8rQECnmfjEwjNhNAlmhCJ.png",
+          "name": "ufotable",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "release_date": "2020-12-31",
+      "revenue": 0,
+      "runtime": 120,
+      "spoken_languages": [
+        {
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "In Production",
+      "tagline": "",
+      "title": "Fate/stay night: Heaven’s Feel III. spring song",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cdav7lVUviYvQwKB2v73PpaJMFV.jpg",
+      "belongs_to_collection": {
+        "id": 210303,
+        "name": "Rebuild of Evangelion",
+        "poster_path": "/c78THgplRisxr6N47D5MHkYKx0U.jpg",
+        "backdrop_path": "/7XNGejHMPhWpniAmXmDUslXXcwC.jpg"
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        }
+      ],
+      "homepage": "http://www.evangelion.co.jp/",
+      "id": 283566,
+      "imdb_id": "tt2458948",
+      "original_language": "ja",
+      "original_title": "シン・エヴァンゲリオン劇場版:||",
+      "overview": "",
+      "popularity": 2.663,
+      "poster_path": "/l1Fd8aChNoCaHL8UFlJ1lTflMtN.jpg",
+      "production_companies": [
+        {
+          "id": 4145,
+          "logo_path": "/suAlQoj04ozLC0WbfI5qEMahVwv.png",
+          "name": "Studio Khara",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6681,
+          "logo_path": null,
+          "name": "The Klock Worx Co.",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "release_date": "2020-06-01",
+      "revenue": 0,
+      "runtime": null,
+      "spoken_languages": [
+        {
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "In Production",
+      "tagline": "",
+      "title": "Evangelion: 3.0+1.0",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jxnjQIg9BJYtNLK4rzRgmMide45.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "homepage": "http://www.pripri-anime.jp/",
+      "id": 542507,
+      "imdb_id": "tt8354164",
+      "original_language": "ja",
+      "original_title": "プリンセス・プリンシパル Crown Handler 第1章",
+      "overview": "The first chapter of six-part film sequels for Princess Principal series.",
+      "popularity": 2.002,
+      "poster_path": "/6ByLZaBjEKrg33EX2vBiPsG4RQv.jpg",
+      "production_companies": [
+        {
+          "id": 528,
+          "logo_path": "/fO3Aof3lXQclYpBByYC8aneTXwA.png",
+          "name": "Bandai Visual",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "release_date": "2020-04-10",
+      "revenue": 0,
+      "runtime": null,
+      "spoken_languages": [
+        {
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "In Production",
+      "tagline": "",
+      "title": "Untitled Princess Principal Sequel: Chapter 1",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        }
+      ],
+      "homepage": null,
+      "id": 571265,
+      "imdb_id": "tt9507234",
+      "original_language": "ja",
+      "original_title": "デジモンアドベンチャー LAST EVOLUTION 絆",
+      "overview": "",
+      "popularity": 1.707,
+      "poster_path": "/zw7MDRD7aek526rKLM04hAROGKy.jpg",
+      "production_companies": [
+        {
+          "id": 5542,
+          "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+          "name": "Toei Animation",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "release_date": "2020-02-21",
+      "revenue": 0,
+      "runtime": null,
+      "spoken_languages": [
+        {
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "In Production",
+      "tagline": "",
+      "title": "Digimon Adventure: Last Evolution Kizuna",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/z0HQXKIZLpe10cKzG7oetRbxBIA.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 9648,
+          "name": "Mystery"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 14,
+          "name": "Fantasy"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        }
+      ],
+      "homepage": "http://miabyss.com/",
+      "id": 573730,
+      "imdb_id": "tt10068916",
+      "original_language": "ja",
+      "original_title": "劇場版メイドインアビス 深き魂の黎明",
+      "overview": "A pamphlet at the screening of 'Made in Abyss: Journey's Dawn\" revealed that the previously announced sequel would be a film.",
+      "popularity": 0.796,
+      "poster_path": "/ci7IY7T7MYO0OUrl0X30LgdYNuK.jpg",
+      "production_companies": [
+        {
+          "id": 16738,
+          "logo_path": null,
+          "name": "Kinema Citrus",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "release_date": "2020-01-17",
+      "revenue": 0,
+      "runtime": null,
+      "spoken_languages": [
+        {
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "In Production",
+      "tagline": "",
+      "title": "Made in Abyss: Dawn of the Deep Soul",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gcUyOrmpnirQuKyf9wHZElyQMyR.jpg",
+      "belongs_to_collection": {
+        "id": 465560,
+        "name": "The Zero Century",
+        "poster_path": "/hdMZPUIuoi0hs6aFxELO0jkX7z2.jpg",
+        "backdrop_path": "/oj2aSnukKfvgPAYxVCJbFlkzzKG.jpg"
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        },
+        {
+          "id": 16,
+          "name": "Animation"
+        }
+      ],
+      "homepage": "http://zero-century.net/",
+      "id": 465557,
+      "imdb_id": "tt7110948",
+      "original_language": "ja",
+      "original_title": "零世紀 エメラルダス",
+      "overview": "The story of Pirate Queen Emeraldas.",
+      "popularity": 0.6,
+      "poster_path": "/5rAyS7CSzwWKenDRqRx40Xx0445.jpg",
+      "production_companies": [
+        {
+          "id": 3041,
+          "logo_path": "/j9VqEdiNqIkMJKku1UTGMAvmuRr.png",
+          "name": "GAINAX",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "release_date": "2020-01-01",
+      "revenue": 0,
+      "runtime": null,
+      "spoken_languages": [
+        {
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Planned",
+      "tagline": "",
+      "title": "The Zero Century: Emeraldas",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        }
+      ],
+      "homepage": "http://heroaca-movie.com/",
+      "id": 592350,
+      "imdb_id": null,
+      "original_language": "ja",
+      "original_title": "僕のヒーローアカデミア THE MOVIE　ヒーローズ：ライジング",
+      "overview": "The AnimeJapan 2019 stage event for the Boku no Hero Academia franchise announced another movie to premiere this winter. Mangaka Kouhei Horikoshi will be supervising and drawing the original character designs for the movie, which will feature a new story.",
+      "popularity": 0.6,
+      "poster_path": "/y56HkHAbSZQJjQaxlqCaRI3lIHu.jpg",
+      "production_companies": [
+        {
+          "id": 2849,
+          "logo_path": "/cN3JNIKawjOMtfk0GBVIbsx69bg.png",
+          "name": "BONES",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "release_date": "2019-12-20",
+      "revenue": 0,
+      "runtime": null,
+      "spoken_languages": [
+        {
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "In Production",
+      "tagline": "",
+      "title": "My Hero Academia: HEROES:RISING",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/blMi3SxXBVDWgsC38QpcWIl19kQ.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "homepage": "http://7dayswar.jp/",
+      "id": 624862,
+      "imdb_id": null,
+      "original_language": "ja",
+      "original_title": "ぼくらの七日間戦争",
+      "overview": "On a hot day right before the summer vacation, all first-year male students of the second class from a junior high school disappear. Was it an accident? A group abduction? In fact, they were hiding in an abandoned factory near the river, and used it as a liberation area to rebel against the adults. The adults are in great confusion by the huge and unexpected operations cooperated by the female students; entangled with real abduction cases, a corrupted mayor election, and even involving parents and television reporters who are thrilled by the liberation broadcast and barricade. The comedy mystery progresses in a light tempo that doesn't give the audience a chance to breathe until the brilliant end that is full of satire.",
+      "popularity": 1.259,
+      "poster_path": "/oCzMmR4Fo7cyEHgpMd5yt1DQAD.jpg",
+      "production_companies": [
+        {
+          "id": 122169,
+          "logo_path": null,
+          "name": "Ajia-Do",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "release_date": "2019-12-13",
+      "revenue": 0,
+      "runtime": null,
+      "spoken_languages": [
+        {
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "In Production",
+      "tagline": "",
+      "title": "Our Seven-Day War",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iBpgcE03sG38noXuEqhmtwGdipB.jpg",
+      "belongs_to_collection": {
+        "id": 145901,
+        "name": "Lupin III Collection",
+        "poster_path": "/eXFuXigMcDUD0tJmiPtrz8TL5ve.jpg",
+        "backdrop_path": "/ai1ZL3wZgkIXZ59cITshSSkUZxK.jpg"
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 80,
+          "name": "Crime"
+        }
+      ],
+      "homepage": "https://lupin-3rd-movie.com/",
+      "id": 614587,
+      "imdb_id": "tt10621032",
+      "original_language": "ja",
+      "original_title": "ルパン三世 THE FIRST",
+      "overview": "Lupin III goes on a grand adventure that involves the legacy of his grandfather, the master thief Arsene Lupin.",
+      "popularity": 1.736,
+      "poster_path": "/i5sVRc4XWEaVrHpNepnrp2GCK1t.jpg",
+      "production_companies": [
+        {
+          "id": 7164,
+          "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+          "name": "TMS Entertainment",
+          "origin_country": "JP"
+        },
+        {
+          "id": 71963,
+          "logo_path": "/8YTVwpqHtS42dlG6F2mZ8m5IDI4.png",
+          "name": "Toho Animation",
+          "origin_country": "JP"
+        },
+        {
+          "id": 882,
+          "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+          "name": "Toho Company, Ltd.",
+          "origin_country": "JP"
+        },
+        {
+          "id": 14330,
+          "logo_path": null,
+          "name": "Monkey Punch Pictures",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "release_date": "2019-12-06",
+      "revenue": 0,
+      "runtime": null,
+      "spoken_languages": [
+        {
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "In Production",
+      "tagline": "It's Showtime!!",
+      "title": "Lupin the Third: The First",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gxjppTTB8601guJtdFTpDwTCPMg.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 10749,
+          "name": "Romance"
+        }
+      ],
+      "homepage": "https://frag-time.com/",
+      "id": 630027,
+      "imdb_id": null,
+      "original_language": "ja",
+      "original_title": "フラグタイム",
+      "overview": "What would you do if you could stop time? Moritani for one is using her unusual ability to stop time for three minutes a day to observe the people around her. One day, she chooses to \"observe\" class idol Murakami's panties - only to find herself in a very compromising situation when her classmate turns out to be immune to her power.",
+      "popularity": 0.84,
+      "poster_path": "/9ZTEJroUpBnBKAVNBYN8CJ1sVBU.jpg",
+      "production_companies": [
+        {
+          "id": 116943,
+          "logo_path": null,
+          "name": "Tear Studio",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "release_date": "2019-11-22",
+      "revenue": 0,
+      "runtime": null,
+      "spoken_languages": [
+        {
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "In Production",
+      "tagline": "",
+      "title": "Fragtime",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9K1zhrS8jZ3NFZwzc5RgtwxskLT.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        },
+        {
+          "id": 14,
+          "name": "Fantasy"
+        }
+      ],
+      "homepage": "http://re-zero-anime.jp/",
+      "id": 566451,
+      "imdb_id": null,
+      "original_language": "ja",
+      "original_title": "Re：ゼロから始める異世界生活『氷結の絆』",
+      "overview": "During the Re:Zero kara Hajimeru Isekai Seikatsu: Memory Snow OVA pre-screening event, it was announced that Re:Zero franchise will get another OVA. It will adapt the prequel novel \"Hyouketsu no Kizuna\" which was included in first Blu-ray and DVD volume of the TV series. The episode will revolve around Emilia and her meeting with Pack during the journey to Roswaal Mansion to be a candidate for the royal election.",
+      "popularity": 1.123,
+      "poster_path": "/9l3ooXPAWxqxap7r1oRWycfnivq.jpg",
+      "production_companies": [
+        {
+          "id": 12569,
+          "logo_path": "/pROt6mT15AC5aTadf7NRBRiTVo3.png",
+          "name": "White Fox",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "release_date": "2019-11-08",
+      "revenue": 0,
+      "runtime": null,
+      "spoken_languages": [
+        {
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "In Production",
+      "tagline": "",
+      "title": "Re:Zero kara Hajimeru Isekai Seikatsu: Hyouketsu no Kizuna",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        }
+      ],
+      "homepage": "https://saenai-movie.com/",
+      "id": 608826,
+      "imdb_id": null,
+      "original_language": "ja",
+      "original_title": "冴えない彼女の育てかた Fine",
+      "overview": "The conclusion to the \"Saenai Heroine no Sodatekata\" series.",
+      "popularity": 1.606,
+      "poster_path": "/h8iptpRLGpH3YXs0WPrOfEdhlVX.jpg",
+      "production_companies": [
+        {
+          "id": 121589,
+          "logo_path": null,
+          "name": "CloverWorks",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "release_date": "2019-10-26",
+      "revenue": 0,
+      "runtime": null,
+      "spoken_languages": [
+        {
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "In Production",
+      "tagline": "",
+      "title": "Saekano: How to Raise a Boring Girlfriend Movie",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/k1jWHgAICsNGM5roYcIwaDpryYS.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 10749,
+          "name": "Romance"
+        }
+      ],
+      "homepage": "https://soraaoproject.jp/",
+      "id": 615165,
+      "imdb_id": null,
+      "original_language": "ja",
+      "original_title": "空の青さを知る人よ",
+      "overview": "",
+      "popularity": 3.147,
+      "poster_path": "/fxWrSWvxbGzYs9LBMMs5yGmyn1X.jpg",
+      "production_companies": [
+        {
+          "id": 109555,
+          "logo_path": null,
+          "name": "Clover Works",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "release_date": "2019-10-11",
+      "revenue": 0,
+      "runtime": null,
+      "spoken_languages": [
+        {
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Post Production",
+      "tagline": "",
+      "title": "Her Blue Sky",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    }
+  ]
+}

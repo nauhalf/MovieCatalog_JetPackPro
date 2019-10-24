@@ -1,0 +1,33 @@
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="favoriteTvShowViewModel"
+            type="com.dicoding.naufal.moviecatalogue.ui.main.fav.tv.FavoriteTvShowViewModel" />
+
+        <import type="android.view.View" />
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.dicoding.naufal.moviecatalogue.ui.main.fav.tv.FavoriteTvShowFragment">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recycler_fav_tv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:clipToPadding="false"
+            android:padding="@dimen/default_padding_margin" />
+
+        <include
+            android:id="@+id/layout_loading"
+            layout="@layout/template_loading"
+            android:visibility="@{safeUnbox(favoriteTvShowViewModel.isLoading()) ? View.VISIBLE : View.GONE}"
+            tools:visibility="gone" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

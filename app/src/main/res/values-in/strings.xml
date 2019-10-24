@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="catalog">Katalog</string>
+    <string name="japanese">Bahasa Jepang</string>
+    <string name="language_setting">Pengaturan Bahasa</string>
+    <string name="movies">Film</string>
+    <string name="original_title">Judul Asli</string>
+    <string name="tv_shows">Acara TV</string>
+    <string name="undefined_language">Bahasa tidak terdefinisi</string>
+    <string name="status">Status</string>
+    <string name="creatorResponse">Pencipta</string>
+    <string name="date_format">%1$td %1$tB %1$tY</string>
+    <string name="original_language">Bahasa Asli</string>
+    <string name="overview">Ikhtisiar</string>
+    <string name="production_company">Perusahaan Produksi</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="runtime">%1$d jam %2$d menit</string>
+    <string name="visit_home_page">Kunjungi Halaman Web</string>
+</resources>

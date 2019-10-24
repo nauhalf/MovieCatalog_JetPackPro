@@ -1,0 +1,327 @@
+{
+  "page": 1,
+  "total_results": 2728,
+  "total_pages": 137,
+  "results": [
+    {
+      "popularity": 0.6,
+      "id": 465559,
+      "video": false,
+      "vote_count": 0,
+      "vote_average": 0,
+      "title": "The Zero Century: Maetel",
+      "release_date": "2026-01-01",
+      "original_language": "ja",
+      "original_title": "零世紀 メーテル",
+      "genre_ids": [
+        878,
+        16
+      ],
+      "backdrop_path": "/19URihLRPW7r2sFSvjpFZDKfrAM.jpg",
+      "adult": false,
+      "overview": "The story of Princess Maetel and how she came to start her timeless train trip on the Galaxy Express 999.",
+      "poster_path": "/oFbrPffgM94psqkdxiXMTlCvCtU.jpg"
+    },
+    {
+      "popularity": 1.4,
+      "id": 465558,
+      "video": false,
+      "vote_count": 0,
+      "vote_average": 0,
+      "title": "The Zero Century: Harlock",
+      "release_date": "2023-01-01",
+      "original_language": "ja",
+      "original_title": "零世紀 ハーロック",
+      "genre_ids": [
+        878,
+        16
+      ],
+      "backdrop_path": "/19URihLRPW7r2sFSvjpFZDKfrAM.jpg",
+      "adult": false,
+      "overview": "The story of Space Pirate Captain Harlock.",
+      "poster_path": "/eYMm4LYgUgHqdAzVJQ55reOEGlU.jpg"
+    },
+    {
+      "popularity": 0.6,
+      "id": 381344,
+      "video": false,
+      "vote_count": 0,
+      "vote_average": 0,
+      "title": "Uru in Blue",
+      "release_date": "2022-12-31",
+      "original_language": "ja",
+      "original_title": "Aoki uru",
+      "genre_ids": [
+        10752,
+        878,
+        16
+      ],
+      "backdrop_path": null,
+      "adult": false,
+      "overview": "The new generation of the Royal Space Force and their endeavors to make it to space.",
+      "poster_path": "/iXJOUf644gX42K2PNuFJnlThC6U.jpg"
+    },
+    {
+      "popularity": 4.43,
+      "vote_count": 0,
+      "video": false,
+      "poster_path": "/ArfwXIJhaD2EbJyPLCfazY1wJDb.jpg",
+      "id": 390635,
+      "adult": false,
+      "backdrop_path": null,
+      "original_language": "ja",
+      "original_title": "劇場版 Fate／stay night [Heaven's Feel] III.spring song",
+      "genre_ids": [
+        16
+      ],
+      "title": "Fate/stay night: Heaven’s Feel III. spring song",
+      "vote_average": 0,
+      "overview": "Theatrical-release adaptation of the visual novel \"Fate/stay night\", following the third and final route. (Final part of a trilogy.)",
+      "release_date": "2020-12-31"
+    },
+    {
+      "popularity": 2.663,
+      "vote_count": 0,
+      "video": false,
+      "poster_path": "/l1Fd8aChNoCaHL8UFlJ1lTflMtN.jpg",
+      "id": 283566,
+      "adult": false,
+      "backdrop_path": "/cdav7lVUviYvQwKB2v73PpaJMFV.jpg",
+      "original_language": "ja",
+      "original_title": "シン・エヴァンゲリオン劇場版:||",
+      "genre_ids": [
+        28,
+        16,
+        18,
+        878
+      ],
+      "title": "Evangelion: 3.0+1.0",
+      "vote_average": 0,
+      "overview": "",
+      "release_date": "2020-06-01"
+    },
+    {
+      "popularity": 2.002,
+      "vote_count": 0,
+      "video": false,
+      "poster_path": "/6ByLZaBjEKrg33EX2vBiPsG4RQv.jpg",
+      "id": 542507,
+      "adult": false,
+      "backdrop_path": "/jxnjQIg9BJYtNLK4rzRgmMide45.jpg",
+      "original_language": "ja",
+      "original_title": "プリンセス・プリンシパル Crown Handler 第1章",
+      "genre_ids": [
+        28,
+        12,
+        16,
+        18
+      ],
+      "title": "Untitled Princess Principal Sequel: Chapter 1",
+      "vote_average": 0,
+      "overview": "The first chapter of six-part film sequels for Princess Principal series.",
+      "release_date": "2020-04-10"
+    },
+    {
+      "popularity": 1.707,
+      "vote_count": 0,
+      "video": false,
+      "poster_path": "/zw7MDRD7aek526rKLM04hAROGKy.jpg",
+      "id": 571265,
+      "adult": false,
+      "backdrop_path": null,
+      "original_language": "ja",
+      "original_title": "デジモンアドベンチャー LAST EVOLUTION 絆",
+      "genre_ids": [
+        28,
+        12,
+        16,
+        878,
+        53
+      ],
+      "title": "Digimon Adventure: Last Evolution Kizuna",
+      "vote_average": 0,
+      "overview": "",
+      "release_date": "2020-02-21"
+    },
+    {
+      "popularity": 0.796,
+      "vote_count": 0,
+      "video": false,
+      "poster_path": "/ci7IY7T7MYO0OUrl0X30LgdYNuK.jpg",
+      "id": 573730,
+      "adult": false,
+      "backdrop_path": "/z0HQXKIZLpe10cKzG7oetRbxBIA.jpg",
+      "original_language": "ja",
+      "original_title": "劇場版メイドインアビス 深き魂の黎明",
+      "genre_ids": [
+        12,
+        16,
+        18,
+        14,
+        9648,
+        878
+      ],
+      "title": "Made in Abyss: Dawn of the Deep Soul",
+      "vote_average": 0,
+      "overview": "A pamphlet at the screening of 'Made in Abyss: Journey's Dawn\" revealed that the previously announced sequel would be a film.",
+      "release_date": "2020-01-17"
+    },
+    {
+      "popularity": 0.6,
+      "id": 465557,
+      "video": false,
+      "vote_count": 0,
+      "vote_average": 0,
+      "title": "The Zero Century: Emeraldas",
+      "release_date": "2020-01-01",
+      "original_language": "ja",
+      "original_title": "零世紀 エメラルダス",
+      "genre_ids": [
+        878,
+        16
+      ],
+      "backdrop_path": "/gcUyOrmpnirQuKyf9wHZElyQMyR.jpg",
+      "adult": false,
+      "overview": "The story of Pirate Queen Emeraldas.",
+      "poster_path": "/5rAyS7CSzwWKenDRqRx40Xx0445.jpg"
+    },
+    {
+      "popularity": 0.6,
+      "vote_count": 0,
+      "video": false,
+      "poster_path": "/y56HkHAbSZQJjQaxlqCaRI3lIHu.jpg",
+      "id": 592350,
+      "adult": false,
+      "backdrop_path": null,
+      "original_language": "ja",
+      "original_title": "僕のヒーローアカデミア THE MOVIE　ヒーローズ：ライジング",
+      "genre_ids": [
+        16
+      ],
+      "title": "My Hero Academia: HEROES:RISING",
+      "vote_average": 0,
+      "overview": "The AnimeJapan 2019 stage event for the Boku no Hero Academia franchise announced another movie to premiere this winter. Mangaka Kouhei Horikoshi will be supervising and drawing the original character designs for the movie, which will feature a new story.",
+      "release_date": "2019-12-20"
+    },
+    {
+      "popularity": 1.259,
+      "vote_count": 0,
+      "video": false,
+      "poster_path": "/oCzMmR4Fo7cyEHgpMd5yt1DQAD.jpg",
+      "id": 624862,
+      "adult": false,
+      "backdrop_path": "/blMi3SxXBVDWgsC38QpcWIl19kQ.jpg",
+      "original_language": "ja",
+      "original_title": "ぼくらの七日間戦争",
+      "genre_ids": [
+        28,
+        16,
+        35,
+        18
+      ],
+      "title": "Our Seven-Day War",
+      "vote_average": 0,
+      "overview": "On a hot day right before the summer vacation, all first-year male students of the second class from a junior high school disappear. Was it an accident? A group abduction? In fact, they were hiding in an abandoned factory near the river, and used it as a liberation area to rebel against the adults. The adults are in great confusion by the huge and unexpected operations cooperated by the female students; entangled with real abduction cases, a corrupted mayor election, and even involving parents and television reporters who are thrilled by the liberation broadcast and barricade. The comedy mystery progresses in a light tempo that doesn't give the audience a chance to breathe until the brilliant end that is full of satire.",
+      "release_date": "2019-12-13"
+    },
+    {
+      "popularity": 1.736,
+      "vote_count": 0,
+      "video": false,
+      "poster_path": "/i5sVRc4XWEaVrHpNepnrp2GCK1t.jpg",
+      "id": 614587,
+      "adult": false,
+      "backdrop_path": "/iBpgcE03sG38noXuEqhmtwGdipB.jpg",
+      "original_language": "ja",
+      "original_title": "ルパン三世 THE FIRST",
+      "genre_ids": [
+        28,
+        12,
+        16,
+        35,
+        80
+      ],
+      "title": "Lupin the Third: The First",
+      "vote_average": 0,
+      "overview": "Lupin III goes on a grand adventure that involves the legacy of his grandfather, the master thief Arsene Lupin.",
+      "release_date": "2019-12-06"
+    },
+    {
+      "popularity": 0.84,
+      "vote_count": 0,
+      "video": false,
+      "poster_path": "/9ZTEJroUpBnBKAVNBYN8CJ1sVBU.jpg",
+      "id": 630027,
+      "adult": false,
+      "backdrop_path": "/gxjppTTB8601guJtdFTpDwTCPMg.jpg",
+      "original_language": "ja",
+      "original_title": "フラグタイム",
+      "genre_ids": [
+        16,
+        10749
+      ],
+      "title": "Fragtime",
+      "vote_average": 0,
+      "overview": "What would you do if you could stop time? Moritani for one is using her unusual ability to stop time for three minutes a day to observe the people around her. One day, she chooses to \"observe\" class idol Murakami's panties - only to find herself in a very compromising situation when her classmate turns out to be immune to her power.",
+      "release_date": "2019-11-22"
+    },
+    {
+      "popularity": 1.123,
+      "vote_count": 0,
+      "video": false,
+      "poster_path": "/9l3ooXPAWxqxap7r1oRWycfnivq.jpg",
+      "id": 566451,
+      "adult": false,
+      "backdrop_path": "/9K1zhrS8jZ3NFZwzc5RgtwxskLT.jpg",
+      "original_language": "ja",
+      "original_title": "Re：ゼロから始める異世界生活『氷結の絆』",
+      "genre_ids": [
+        16,
+        18,
+        14,
+        53
+      ],
+      "title": "Re:Zero kara Hajimeru Isekai Seikatsu: Hyouketsu no Kizuna",
+      "vote_average": 0,
+      "overview": "During the Re:Zero kara Hajimeru Isekai Seikatsu: Memory Snow OVA pre-screening event, it was announced that Re:Zero franchise will get another OVA. It will adapt the prequel novel \"Hyouketsu no Kizuna\" which was included in first Blu-ray and DVD volume of the TV series. The episode will revolve around Emilia and her meeting with Pack during the journey to Roswaal Mansion to be a candidate for the royal election.",
+      "release_date": "2019-11-08"
+    },
+    {
+      "popularity": 1.606,
+      "vote_count": 0,
+      "video": false,
+      "poster_path": "/h8iptpRLGpH3YXs0WPrOfEdhlVX.jpg",
+      "id": 608826,
+      "adult": false,
+      "backdrop_path": null,
+      "original_language": "ja",
+      "original_title": "冴えない彼女の育てかた Fine",
+      "genre_ids": [
+        16
+      ],
+      "title": "Saekano: How to Raise a Boring Girlfriend Movie",
+      "vote_average": 0,
+      "overview": "The conclusion to the \"Saenai Heroine no Sodatekata\" series.",
+      "release_date": "2019-10-26"
+    },
+    {
+      "popularity": 3.147,
+      "vote_count": 0,
+      "video": false,
+      "poster_path": "/fxWrSWvxbGzYs9LBMMs5yGmyn1X.jpg",
+      "id": 615165,
+      "adult": false,
+      "backdrop_path": "/k1jWHgAICsNGM5roYcIwaDpryYS.jpg",
+      "original_language": "ja",
+      "original_title": "空の青さを知る人よ",
+      "genre_ids": [
+        16,
+        10749
+      ],
+      "title": "Her Blue Sky",
+      "vote_average": 0,
+      "overview": "",
+      "release_date": "2019-10-11"
+    }
+  ]
+}

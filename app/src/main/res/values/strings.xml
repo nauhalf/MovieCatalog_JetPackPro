@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Movie Catalog</string>
+    <string name="language_setting">Language Setting</string>
+    <string name="tv_shows">TV Shows</string>
+    <string name="movies">Movies</string>
+    <string name="catalog">Catalog</string>
+    <string name="japanese">Japanese</string>
+    <string name="original_title">Original Title</string>
+    <string name="undefined_language">Undefined Language</string>
+    <string name="status">Status</string>
+    <string name="overview">Overview</string>
+    <string name="release_date">Release Date</string>
+    <string name="original_language">Original Language</string>
+    <string name="year" translatable="false">(%1$tY)</string>
+    <string name="date_format">%1$tB %1$td, %1$tY</string>
+    <string name="runtime">%1$d h %2$d m</string>
+    <string name="production_company">Production Company</string>
+    <string name="creatorResponse">Creator</string>
+    <string name="visit_home_page">Visit Home Page</string>
+    <string name="remove_favorite">Successfully removed from favorite</string>
+    <string name="add_favorite">Successfully added to favorite</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorite_movie">Favorite Movies</string>
+    <string name="favorite_tv_show">Favorite TV Shows</string>
+    <string name="discovery">Discovery</string>
+    <string name="favorite">Favorite</string>
+</resources>

@@ -1,0 +1,2303 @@
+{
+  "results": [
+    {
+      "backdrop_path": "/c14vjmndzL9tBdooGsMznMFrFLo.jpg",
+      "created_by": [],
+      "episode_run_time": [
+        22
+      ],
+      "first_air_date": "2007-02-15",
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "homepage": "http://www.tv-tokyo.co.jp/anime/naruto/",
+      "id": 31910,
+      "in_production": false,
+      "languages": [
+        "ja"
+      ],
+      "last_air_date": "2017-03-23",
+      "last_episode_to_air": {
+        "air_date": "2017-03-23",
+        "episode_number": 500,
+        "id": 1404128,
+        "name": "Hidden Leaf Story, The Perfect Day for a Wedding, Part 7: The Message",
+        "overview": "Naruto had once lived a lonely existence, ostracized by everyone. But Iruka's words and his very presence have supported Naruto to this day. As Naruto's wedding nears, Iruka begins to lose sight of what he was to Naruto, and is unsure of what to say for his message.",
+        "production_code": "",
+        "season_number": 20,
+        "show_id": 31910,
+        "still_path": "/wztfdWwpYHJBEziO5TMuCx1Gpke.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      "name": "Naruto Shippūden",
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "name": "TV Tokyo",
+          "id": 98,
+          "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+          "origin_country": "JP"
+        }
+      ],
+      "number_of_episodes": 500,
+      "number_of_seasons": 20,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ナルト 疾風伝",
+      "overview": "Naruto Shippuuden is the continuation of the original animated TV series Naruto.The story revolves around an older and slightly more matured Uzumaki Naruto and his quest to save his friend Uchiha Sasuke from the grips of the snake-like Shinobi, Orochimaru. After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work, though it will not be easy, as He has amassed a few (more dangerous) enemies, in the likes of the shinobi organization; Akatsuki.",
+      "popularity": 125.932,
+      "poster_path": "/zAYRe2bJxpWTVrwwmBc00VFkAf4.jpg",
+      "production_companies": [
+        {
+          "id": 3034,
+          "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+          "name": "TV Tokyo",
+          "origin_country": "JP"
+        },
+        {
+          "id": 3234,
+          "logo_path": "/o17H0aZzAn0qgVHY2IO3oDXVoBH.png",
+          "name": "Pierrot",
+          "origin_country": "JP"
+        },
+        {
+          "id": 104684,
+          "logo_path": null,
+          "name": "Sound Box",
+          "origin_country": "JP"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2008-08-02",
+          "episode_count": 12,
+          "id": 43372,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": "/hrmtP8ZVwSNMLaKYIX8x2eLA7q3.jpg",
+          "season_number": 0
+        },
+        {
+          "air_date": "2007-02-15",
+          "episode_count": 32,
+          "id": 43373,
+          "name": "Season 1",
+          "overview": "After two and a half years of training on the road with Jiraiya of the Sannin, Naruto is back in the Village Hidden in the Leaves, and he's ready to show off his new skills.",
+          "poster_path": "/tFvlSeNkED44sO9H34DUzhgnggH.jpg",
+          "season_number": 1
+        },
+        {
+          "air_date": "2007-11-07",
+          "episode_count": 21,
+          "id": 43374,
+          "name": "Season 2",
+          "overview": "",
+          "poster_path": "/nKIvfEcQmxH8bN1iTka9C5lxrt3.jpg",
+          "season_number": 2
+        },
+        {
+          "air_date": "2008-04-02",
+          "episode_count": 18,
+          "id": 43375,
+          "name": "Season 3",
+          "overview": "",
+          "poster_path": "/tURio6eEzTOFJja4iAlLb34pTyQ.jpg",
+          "season_number": 3
+        },
+        {
+          "air_date": "2008-08-20",
+          "episode_count": 17,
+          "id": 43376,
+          "name": "Season 4",
+          "overview": "",
+          "poster_path": "/v48912Ln9DKnXV3j0TLf87xF3dE.jpg",
+          "season_number": 4
+        },
+        {
+          "air_date": "2008-12-17",
+          "episode_count": 24,
+          "id": 43377,
+          "name": "Season 5",
+          "overview": "",
+          "poster_path": "/qauhCMOC1fVCFrWMDfzvHpdWgWp.jpg",
+          "season_number": 5
+        },
+        {
+          "air_date": "2009-06-10",
+          "episode_count": 31,
+          "id": 43378,
+          "name": "Season 6",
+          "overview": "",
+          "poster_path": "/2KJUPbSGckgyrsWqqQ3HVo2mYT0.jpg",
+          "season_number": 6
+        },
+        {
+          "air_date": "2010-01-20",
+          "episode_count": 8,
+          "id": 43379,
+          "name": "Season 7",
+          "overview": "",
+          "poster_path": "/rIU4N2XRhXkhLN5NdGqR1buN0rM.jpg",
+          "season_number": 7
+        },
+        {
+          "air_date": "2010-03-24",
+          "episode_count": 24,
+          "id": 43380,
+          "name": "Season 8",
+          "overview": "",
+          "poster_path": "/3nGcRKmEM4FCBvILkSyw4BZCX5q.jpg",
+          "season_number": 8
+        },
+        {
+          "air_date": "2010-09-01",
+          "episode_count": 21,
+          "id": 43381,
+          "name": "Season 9",
+          "overview": "",
+          "poster_path": "/yMgz78M1RG38o3YVZQcHVAqTkGI.jpg",
+          "season_number": 9
+        },
+        {
+          "air_date": "2011-02-09",
+          "episode_count": 25,
+          "id": 43382,
+          "name": "Season 10",
+          "overview": "",
+          "poster_path": "/pYFq029p4KwhehNoLaR3Rtx5Jdr.jpg",
+          "season_number": 10
+        },
+        {
+          "air_date": "2011-07-27",
+          "episode_count": 21,
+          "id": 43383,
+          "name": "Season 11",
+          "overview": "",
+          "poster_path": "/fYQ17N26a3jszEOaNgpiaCDxx74.jpg",
+          "season_number": 11
+        },
+        {
+          "air_date": "2012-01-04",
+          "episode_count": 33,
+          "id": 43384,
+          "name": "Season 12",
+          "overview": "",
+          "poster_path": "/se75Yruf1VOsb29g7TITAM6NIh3.jpg",
+          "season_number": 12
+        },
+        {
+          "air_date": "2012-08-22",
+          "episode_count": 20,
+          "id": 43385,
+          "name": "Season 13",
+          "overview": "",
+          "poster_path": "/r8qIyRvPiAanzS8BmSbsXNf9Fqm.jpg",
+          "season_number": 13
+        },
+        {
+          "air_date": "2013-01-16",
+          "episode_count": 25,
+          "id": 43386,
+          "name": "Season 14",
+          "overview": "",
+          "poster_path": "/6K1gzm7O0I7dPQOC1TUMVSEOIbC.jpg",
+          "season_number": 14
+        },
+        {
+          "air_date": "2013-07-17",
+          "episode_count": 28,
+          "id": 68281,
+          "name": "Season 15",
+          "overview": "",
+          "poster_path": "/1GEAdztqjcBDRkogoCFBRW9Aasl.jpg",
+          "season_number": 15
+        },
+        {
+          "air_date": "2014-02-05",
+          "episode_count": 13,
+          "id": 72069,
+          "name": "Season 16",
+          "overview": "",
+          "poster_path": "/aS4YycVCsaGWsJqOfxmXOv8lrnE.jpg",
+          "season_number": 16
+        },
+        {
+          "air_date": "2014-05-14",
+          "episode_count": 11,
+          "id": 71087,
+          "name": "Season 17",
+          "overview": "",
+          "poster_path": "/3AWSwC17XAP8Tiio9Psov2vbKHF.jpg",
+          "season_number": 17
+        },
+        {
+          "air_date": "2014-08-20",
+          "episode_count": 21,
+          "id": 72068,
+          "name": "Season 18",
+          "overview": "",
+          "poster_path": "/2QlwSiSFmU8yYiKQtVrJTBDvcyH.jpg",
+          "season_number": 18
+        },
+        {
+          "air_date": null,
+          "episode_count": 20,
+          "id": 72397,
+          "name": "Season 19",
+          "overview": "",
+          "poster_path": "/3ZZmcz65tpGse5Q8Pi8VIck4n0T.jpg",
+          "season_number": 19
+        },
+        {
+          "air_date": null,
+          "episode_count": 87,
+          "id": 75231,
+          "name": "Season 20",
+          "overview": "",
+          "poster_path": "/fT9QSP05JPOKMitqBq0ZDKtfbfx.jpg",
+          "season_number": 20
+        }
+      ],
+      "status": "Ended",
+      "type": "Scripted",
+      "vote_average": 7.6,
+      "vote_count": 262
+    },
+    {
+      "backdrop_path": "/twNTbuhcpBg179DJUPUbhaQdglo.jpg",
+      "created_by": [
+        {
+          "id": 1110435,
+          "credit_id": "56856eb6c3a368227b011899",
+          "name": "Yoshitomo Yonetani",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1903783,
+          "credit_id": "5adc933d0e0a261432022b41",
+          "name": "Shougo Yasukawa",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "episode_run_time": [
+        24
+      ],
+      "first_air_date": "2015-04-04",
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ],
+      "homepage": "http://shokugekinosoma.com/",
+      "id": 62273,
+      "in_production": true,
+      "languages": [
+        "ja"
+      ],
+      "last_air_date": "2018-06-25",
+      "last_episode_to_air": {
+        "air_date": "2018-06-25",
+        "episode_number": 24,
+        "id": 1504664,
+        "name": "The Basis for Strength",
+        "overview": "3rd and final battle between Soma and Nene is heating up, as they are putting everything they've got in the dish! As the theme of shokugeki being Soba, Nene is in her element and finishes first. Her dish is highly praised by the judges so what will Soma cook up to turn the situation around!?",
+        "production_code": "",
+        "season_number": 3,
+        "show_id": 62273,
+        "still_path": "/7TpljPHyGfEPaOs5lBCA3rvngA1.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      "name": "Food Wars!: Shokugeki no Soma",
+      "next_episode_to_air": {
+        "air_date": "2019-10-12",
+        "episode_number": 1,
+        "id": 1921701,
+        "name": "Episode 1",
+        "overview": "",
+        "production_code": "",
+        "season_number": 4,
+        "show_id": 62273,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      "networks": [
+        {
+          "name": "MBS",
+          "id": 94,
+          "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+          "origin_country": "JP"
+        },
+        {
+          "name": "ANIMAX",
+          "id": 171,
+          "logo_path": "/ozIYsP32g0ckOd7e2EqUTNpTwUE.png",
+          "origin_country": "JP"
+        },
+        {
+          "name": "Tokyo MX",
+          "id": 614,
+          "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+          "origin_country": "JP"
+        },
+        {
+          "name": "BS11",
+          "id": 861,
+          "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+          "origin_country": "JP"
+        },
+        {
+          "name": "AbemaTV",
+          "id": 1521,
+          "logo_path": "/esNzq1wc1ZciitHPusIIHhTPQwg.png",
+          "origin_country": "JP"
+        }
+      ],
+      "number_of_episodes": 85,
+      "number_of_seasons": 4,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "食戟のソーマ",
+      "overview": "Yukihira Souma's dream is to become a full-time chef in his father's restaurant and surpass his father's culinary skill. But just as Yukihira graduates from middle schools his father, Yukihira Jouichirou, closes down the restaurant to cook in Europe. Although downtrodden, Souma's fighting spirit is rekindled by a challenge from Jouichirou which is to survive in an elite culinary school where only 10% of the students graduate. Can Souma survive?",
+      "popularity": 124.605,
+      "poster_path": "/oSK6MoEScP9V4XF0cPvJ0a66urY.jpg",
+      "production_companies": [
+        {
+          "id": 11884,
+          "logo_path": "/tdt6yTJFV9KIuhpqVXAMheN39W7.png",
+          "name": "J.C.Staff",
+          "origin_country": "JP"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2015-07-11",
+          "episode_count": 6,
+          "id": 93607,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": "/eqc4MO4nd3XvXxVIOVJYhauoNZ.jpg",
+          "season_number": 0
+        },
+        {
+          "air_date": "2015-04-04",
+          "episode_count": 24,
+          "id": 65672,
+          "name": "The First Plate",
+          "overview": "Ever since he was a child, fifteen-year-old Souma Yukihira has helped his father by working as the sous chef in the restaurant his father runs and owns. Throughout the years, Souma developed a passion for entertaining his customers with his creative, skilled, and daring culinary creations. His dream is to someday own his family's restaurant as its head chef.\n\nYet when his father suddenly decides to close the restaurant to test his cooking abilities in restaurants around the world, he sends Souma to Tootsuki Culinary Academy, an elite cooking school where only 10 percent of the students graduate. The institution is famous for its \"Shokugeki\" or \"food wars,\" where students face off in intense, high-stakes cooking showdowns.\n\nAs Souma and his new schoolmates struggle to survive the extreme lifestyle of Tootsuki, more and greater challenges await him, putting his years of learning under his father to the test.",
+          "poster_path": "/wpVFt39o0qvfNo13TJDJpKMcTdt.jpg",
+          "season_number": 1
+        },
+        {
+          "air_date": "2016-07-02",
+          "episode_count": 13,
+          "id": 78001,
+          "name": "The Second Plate",
+          "overview": "The qualifiers of the Autumn Elections are now over, and only eight talented chefs remain. Now, they face off in one-on-one food wars, each with their own unique themes. Met with both new judges and new opponents all with their own specialties, Souma must stay on his toes if he hopes to make it to the top of both the Autumn Elections and Tootsuki Culinary Academy.",
+          "poster_path": "/nyIJkgbGpVRRkfNI32gGQP1mujW.jpg",
+          "season_number": 2
+        },
+        {
+          "air_date": "2017-10-04",
+          "episode_count": 24,
+          "id": 90594,
+          "name": "The Third Plate",
+          "overview": "The Moon Festival is Tootsuki Academy's annual gourmet gala, where students compete against each other to earn the most profit through selling their cuisine of choice. But for Souma Yukihira, it is also his first opportunity to challenge the Elite Ten, the supreme council that rules over the academy.\n\nHowever, this is only the beginning of Souma's war against the Elite Ten; a nefarious plot is underway that will provide Souma with the challenge he desires but will also shake the very foundations of Tootsuki Academy itself.",
+          "poster_path": "/lrNMKNF7M998w9xGbpXo8do1my8.jpg",
+          "season_number": 3
+        },
+        {
+          "air_date": "2019-10-12",
+          "episode_count": 24,
+          "id": 131892,
+          "name": "The Fourth Plate",
+          "overview": null,
+          "poster_path": "/s30SGCgJJxJNbJq3tj6nv7C1FkM.jpg",
+          "season_number": 4
+        }
+      ],
+      "status": "Returning Series",
+      "type": "Scripted",
+      "vote_average": 8.2,
+      "vote_count": 49
+    },
+    {
+      "backdrop_path": "/n5Ty1KJIRNCXlDHDjcPpUgp57tr.jpg",
+      "created_by": [
+        {
+          "id": 187,
+          "credit_id": "5ada21ff0e0a263c99002741",
+          "name": "Tensai Okamura",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 70215,
+          "credit_id": "5ada22050e0a263c9000273d",
+          "name": "Shoutarou Suga",
+          "gender": 2,
+          "profile_path": "/2zg75e5foowuR9g6tGRDFR2gio5.jpg"
+        },
+        {
+          "id": 1564397,
+          "credit_id": "5ada2218c3a3686022002841",
+          "name": "Yuniko Ayana",
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 84511,
+          "credit_id": "5ada221e0e0a263c8a00265b",
+          "name": "Tomokazu Tokoro",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 931451,
+          "credit_id": "5ada2239c3a36860360026c8",
+          "name": "Takao Yoshioka",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1467507,
+          "credit_id": "5ada22420e0a263c9c00270d",
+          "name": "Takeshi Furuta",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "episode_run_time": [
+        24
+      ],
+      "first_air_date": "2014-10-05",
+      "genres": [
+        {
+          "id": 10759,
+          "name": "Action & Adventure"
+        },
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 10765,
+          "name": "Sci-Fi & Fantasy"
+        }
+      ],
+      "homepage": "http://www.7-taizai.net/1st/",
+      "id": 62104,
+      "in_production": true,
+      "languages": [
+        "ja"
+      ],
+      "last_air_date": "2018-06-30",
+      "last_episode_to_air": {
+        "air_date": "2018-06-30",
+        "episode_number": 24,
+        "id": 1513398,
+        "name": "As Long As You Are Here",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "show_id": 62104,
+        "still_path": "/lbtgs9BfEFbtLv4MgQtspZkUD4x.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      "name": "The Seven Deadly Sins",
+      "next_episode_to_air": {
+        "air_date": "2019-10-09",
+        "episode_number": 1,
+        "id": 1921871,
+        "name": "Episode 1",
+        "overview": "",
+        "production_code": "",
+        "season_number": 3,
+        "show_id": 62104,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      "networks": [
+        {
+          "name": "MBS",
+          "id": 94,
+          "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+          "origin_country": "JP"
+        }
+      ],
+      "number_of_episodes": 52,
+      "number_of_seasons": 3,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "七つの大罪",
+      "overview": "The “Seven Deadly Sins”—a group of evil knights who conspired to overthrow the kingdom of Britannia—were said to have been eradicated by the Holy Knights, although some claim that they still live. Ten years later, the Holy Knights have staged a Coup d'état and assassinated the king, becoming the new, tyrannical rulers of the kingdom. Elizabeth, the king's only daughter, sets out on a journey to find the “Seven Deadly Sins,” and to enlist their help in taking back the kingdom.",
+      "popularity": 144.297,
+      "poster_path": "/gxTojpKEOtue85EEFlozwRbDXwJ.jpg",
+      "production_companies": [
+        {
+          "id": 13113,
+          "logo_path": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png",
+          "name": "A-1 Pictures",
+          "origin_country": "JP"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2015-01-04",
+          "episode_count": 13,
+          "id": 74608,
+          "name": "Specials",
+          "overview": "Specials along with the four part \"Signs of Holy War\".\n\n*Signs of Holy War*\n\nTaken the kingdom of Leones back from Holy Knights, the Seven Deadly Sins, along with Elizabeth and Hawk, can finally enjoy peaceful lives they earned. However, with premonitions of a new threat are looming, their happy, ordinary days are about to end soon.",
+          "poster_path": "/r4r9w4si9HKT8OiH8TAlyAB18sN.jpg",
+          "season_number": 0
+        },
+        {
+          "air_date": "2014-10-05",
+          "episode_count": 24,
+          "id": 65163,
+          "name": "The Seven Deadly Sins",
+          "overview": "",
+          "poster_path": "/sY7LcEBp3A9FQaJf1qMcDygJZoG.jpg",
+          "season_number": 1
+        },
+        {
+          "air_date": "2018-01-13",
+          "episode_count": 24,
+          "id": 97623,
+          "name": "Revival of the Commandments",
+          "overview": "",
+          "poster_path": "/2Ll4LlWfCDl3rCY7QmfzyZiuvWW.jpg",
+          "season_number": 2
+        },
+        {
+          "air_date": "2019-10-09",
+          "episode_count": 4,
+          "id": 128396,
+          "name": "Wrath of the Gods",
+          "overview": null,
+          "poster_path": "/g5znBK7lGrAWK2ou7vcsQzcwSBU.jpg",
+          "season_number": 3
+        }
+      ],
+      "status": "Returning Series",
+      "type": "Scripted",
+      "vote_average": 7.8,
+      "vote_count": 130
+    },
+    {
+      "backdrop_path": "/ye4oayd3csx8psElvvQPdO2fgdD.jpg",
+      "created_by": [
+        {
+          "id": 1257454,
+          "credit_id": "525970e4760ee34661a34a7d",
+          "name": "Yoshihiro Togashi",
+          "profile_path": null
+        }
+      ],
+      "episode_run_time": [
+        24
+      ],
+      "first_air_date": "2011-10-02",
+      "genres": [
+        {
+          "id": 10759,
+          "name": "Action & Adventure"
+        },
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ],
+      "homepage": "http://www.ntv.co.jp/hunterhunter",
+      "id": 46298,
+      "in_production": false,
+      "languages": [
+        "ja"
+      ],
+      "last_air_date": "2014-09-23",
+      "last_episode_to_air": {
+        "air_date": "2014-09-23",
+        "episode_number": 12,
+        "id": 1198951,
+        "name": "Past x And x Future",
+        "overview": "Gon climbs to the top of the World Tree where Ging is expecting him, and the two finally have a heart to heart. In this occasion, Ging reveals his intentions to explore the world beyond the current boundaries known to mankind and Gon tells him of all his adventures, while his friends keep following their separate ways, each one of them with their own dreams and goals to pursue.",
+        "production_code": "",
+        "season_number": 3,
+        "show_id": 46298,
+        "still_path": "/z8FUy1ScYC2Pc1J3ozYpNLUTMI2.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      "name": "Hunter x Hunter",
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "name": "NTV",
+          "id": 57,
+          "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+          "origin_country": "JP"
+        },
+        {
+          "name": "Netflix",
+          "id": 213,
+          "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+          "origin_country": ""
+        }
+      ],
+      "number_of_episodes": 141,
+      "number_of_seasons": 3,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ハンターｘハンター",
+      "overview": "Twelve-year-old Gon Freecss one day discovers that the father he had always been told was dead was alive and well. His Father, Ging, is a Hunter—a member of society's elite with a license to go anywhere or do almost anything. Gon, determined to follow in his father's footsteps, decides to take the Hunter Examination and eventually find his father to prove himself as a Hunter in his own right. But on the way, he learns that there is more to becoming a Hunter than previously thought, and the challenges that he must face are considered the toughest in the world.",
+      "popularity": 124.625,
+      "poster_path": "/yWBcBIO9OrF3E85C5Arols6QNnG.jpg",
+      "production_companies": [
+        {
+          "id": 3464,
+          "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+          "name": "Madhouse",
+          "origin_country": "JP"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2013-01-12",
+          "episode_count": 2,
+          "id": 54608,
+          "name": "Specials",
+          "overview": null,
+          "poster_path": "/8xsOTM8qEejxfDZHySiqiiM1ykm.jpg",
+          "season_number": 0
+        },
+        {
+          "air_date": "2011-10-02",
+          "episode_count": 62,
+          "id": 54607,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": "/zvpIy4NDZkSZybE8BQzMHyE1poR.jpg",
+          "season_number": 1
+        },
+        {
+          "air_date": "2013-01-20",
+          "episode_count": 74,
+          "id": 54606,
+          "name": "Season 2",
+          "overview": "",
+          "poster_path": "/6jIvyAzY9sGcZvybo0gIIFIN2xa.jpg",
+          "season_number": 2
+        },
+        {
+          "air_date": "2014-07-08",
+          "episode_count": 12,
+          "id": 77711,
+          "name": "Season 3",
+          "overview": "",
+          "poster_path": "/8hHKH8FqgXKTtwJGPnq63NX7yA9.jpg",
+          "season_number": 3
+        }
+      ],
+      "status": "Ended",
+      "type": "Scripted",
+      "vote_average": 8.4,
+      "vote_count": 147
+    },
+    {
+      "backdrop_path": "/ydf1CeiBLfdxiyNTpskM0802TKl.jpg",
+      "created_by": [
+        {
+          "id": 78322,
+          "credit_id": "5d3478da6a300b05f6a1d3eb",
+          "name": "Akira Toriyama",
+          "gender": 2,
+          "profile_path": "/9YorJMvF6DgfJcpATHbGyivZpS5.jpg"
+        }
+      ],
+      "episode_run_time": [
+        26
+      ],
+      "first_air_date": "1989-04-26",
+      "genres": [
+        {
+          "id": 10765,
+          "name": "Sci-Fi & Fantasy"
+        },
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 10759,
+          "name": "Action & Adventure"
+        }
+      ],
+      "homepage": "http://www.dragonballz.com",
+      "id": 12971,
+      "in_production": false,
+      "languages": [
+        "ja"
+      ],
+      "last_air_date": "1996-01-31",
+      "last_episode_to_air": {
+        "air_date": "1996-01-31",
+        "episode_number": 38,
+        "id": 969873,
+        "name": "Goku's Next Journey",
+        "overview": "",
+        "production_code": "",
+        "season_number": 9,
+        "show_id": 12971,
+        "still_path": "/g7EvCnI1Mk4ZeTO0daHZs0pWaMD.jpg",
+        "vote_average": 8,
+        "vote_count": 2
+      },
+      "name": "Dragon Ball Z",
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "name": "Fuji TV",
+          "id": 1,
+          "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+          "origin_country": "JP"
+        }
+      ],
+      "number_of_episodes": 291,
+      "number_of_seasons": 9,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ドラゴンボールゼット",
+      "overview": "Five years have passed since the fight with Piccolo Jr. and Goku now has a son, Gohan. The peace is interrupted when an alien named Raditz arrives on Earth in a spacecraft and tracks down Goku, revealing to him that that they are members of a near-extinct warrior race called the Saiyans.",
+      "popularity": 111.793,
+      "poster_path": "/lCvOCn1Hq0ugBL6T8SyMoaCWNOc.jpg",
+      "production_companies": [
+        {
+          "id": 3341,
+          "logo_path": "/dTG5dXE1kU2mpmL9BNnraffckLU.png",
+          "name": "Fuji Television Network",
+          "origin_country": "JP"
+        },
+        {
+          "id": 104644,
+          "logo_path": null,
+          "name": "Mini Art",
+          "origin_country": "JP"
+        },
+        {
+          "id": 5542,
+          "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+          "name": "Toei Animation",
+          "origin_country": "JP"
+        },
+        {
+          "id": 104652,
+          "logo_path": "/uh7DFdoi7r7mg2JwfZewtNv96rc.png",
+          "name": "Fizz Sound Creation",
+          "origin_country": "JP"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "1990-10-16",
+          "episode_count": 10,
+          "id": 65352,
+          "name": "Specials",
+          "overview": null,
+          "poster_path": "/88fVgcOB5OOtBI5RaGnzfijNAeG.jpg",
+          "season_number": 0
+        },
+        {
+          "air_date": "1989-04-26",
+          "episode_count": 39,
+          "id": 59759,
+          "name": "Saiyan Saga",
+          "overview": "The Saiyan Saga contains episodes 1-39.\n\nThe Saiyans are coming! These ruthless, intergalactic villains carved a path of destruction across the galaxy, and now they’re headed for Earth! The evil Saiyan warlord Vegeta will not rest until he’s seized the wish-granting powers of the Dragon Balls for himself! Goku vs. Vegeta! The battle of all battles begins now!",
+          "poster_path": "/wBvWfCJyN9uXbkXKxJNTLzeGmme.jpg",
+          "season_number": 1
+        },
+        {
+          "air_date": "1990-03-14",
+          "episode_count": 35,
+          "id": 59760,
+          "name": "Namek Saga",
+          "overview": "The Namek Saga, also known as Season 2, is the second season of the Dragon Ball Z anime. It spans from episodes 40 through 74 in the original Japanese anime and FUNimation dub, and episodes 29 through 60 in the original dub. It adapts chapters 246 to 291 from the Dragon Ball manga. It is preceded by the Saiyan Saga and succeeded by the Frieza Saga.",
+          "poster_path": "/zE4HN3kAVFNHRE6gI2LNnWyp9cr.jpg",
+          "season_number": 2
+        },
+        {
+          "air_date": "1991-01-30",
+          "episode_count": 33,
+          "id": 59761,
+          "name": "Frieza Saga",
+          "overview": "The Frieza Saga, also known as Season 3, is the third season of the Dragon Ball Z anime. It spans from episodes 75 through 107 in the original Japanese anime and FUNimation dub, and episodes 61 through 92 in the original dub. It adapts chapters 291 to 329 from the Dragon Ball manga. It is preceded by the Namek and Captain Ginyu Sagas and succeeded by the Androids Saga.",
+          "poster_path": "/a2L4vWPp2NFHBALWBPyVH5vPk6e.jpg",
+          "season_number": 3
+        },
+        {
+          "air_date": "1991-09-18",
+          "episode_count": 32,
+          "id": 59762,
+          "name": "Androids Saga",
+          "overview": "The Androids Saga, also known as Season 4, is the fourth season of the Dragon Ball Z anime. It spans from episodes 108 through 139 in the original Japanese anime and FUNimation dub, and episodes 93 through 124 in the original dub. It adapts chapters 329 to 357 from the Dragon Ball manga. It is preceded by the Frieza Saga and succeeded by the Cell Saga.",
+          "poster_path": "/tB5YM9eFFF3OmLg3zsR67oNUfAF.jpg",
+          "season_number": 4
+        },
+        {
+          "air_date": "1992-05-20",
+          "episode_count": 26,
+          "id": 59763,
+          "name": "Cell Saga",
+          "overview": "The Cell Saga, also known as Season 5, is the fifth season of the Dragon Ball Z anime. It spans from episodes 140 through 165 in the original Japanese anime and FUNimation dub, and episodes 125 through 150 in the original dub. It adapts chapters 358 to 388 from the Dragon Ball manga. It is preceded by the Androids Saga and succeeded by the Cell Games Saga.",
+          "poster_path": "/iIzYMnpLtBTh9Vg8yj91RhjQMFy.jpg",
+          "season_number": 5
+        },
+        {
+          "air_date": "1992-11-25",
+          "episode_count": 29,
+          "id": 59764,
+          "name": "Cell Games Saga",
+          "overview": "The Cell Games Saga, also known as Season 6, is the sixth season of the Dragon Ball Z anime. It spans from episodes 166 through 194 in the original Japanese anime and FUNimation dub, and episodes 151 through 179 in the original dub. It adapts chapters 388 to 420 from the Dragon Ball manga. It is preceded by the Cell Saga and succeeded by the World Tournament Saga.",
+          "poster_path": "/381gFEyW91dgBUu09NMSvkI2Rac.jpg",
+          "season_number": 6
+        },
+        {
+          "air_date": "1993-07-28",
+          "episode_count": 25,
+          "id": 59765,
+          "name": "World Tournament Saga",
+          "overview": "The World Tournament Saga, also known as Season 7, is the seventh season of the Dragon Ball Z anime. It spans from episodes 195 through 219 in the original Japanese anime and FUNimation dub, and episodes 180 through 204 in the original dub. It adapts chapters 421 to 445 from the Dragon Ball manga. It is preceded by the Cell Games Saga and succeeded by the Majin Buu Saga.",
+          "poster_path": "/w2x8LhWuoXyFp2i2syagpTbrfcR.jpg",
+          "season_number": 7
+        },
+        {
+          "air_date": "1994-03-09",
+          "episode_count": 34,
+          "id": 59766,
+          "name": "Majin Buu Saga",
+          "overview": "The Majin Buu Saga, also known as Season 8, is the eighth season of the Dragon Ball Z anime. It spans from episodes 220 through 253 in the original Japanese anime and FUNimation dub, and episodes 205 through 238 in the original dub. It adapts chapters 446 to 483 from the Dragon Ball manga. It is preceded by the World Tournament Saga and succeeded by the Kid Buu Saga.",
+          "poster_path": "/AksanoqLDDqpr615GU037m0zSKV.jpg",
+          "season_number": 8
+        },
+        {
+          "air_date": "1995-02-01",
+          "episode_count": 38,
+          "id": 59767,
+          "name": "Kid Buu Saga",
+          "overview": "The Kid Buu Saga, also known as Season 9, is the ninth and final season of the Dragon Ball Z anime. It spans from episodes 254 through 291 in the original Japanese anime and FUNimation dub, and episodes 239 through 276 in the original dub. It adapts chapters 484 to 519 from the Dragon Ball manga. It is preceded by the Majin Buu Saga.",
+          "poster_path": "/ng5ikoqe4vU7gS5l42EB35rMEIX.jpg",
+          "season_number": 9
+        }
+      ],
+      "status": "Ended",
+      "type": "Scripted",
+      "vote_average": 8,
+      "vote_count": 326
+    },
+    {
+      "backdrop_path": "/rQEpHHLg45QK4jBuIkI70fG62x3.jpg",
+      "created_by": [],
+      "episode_run_time": [
+        25
+      ],
+      "first_air_date": "2013-07-01",
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ],
+      "homepage": "http://inuhasa.jp/",
+      "id": 49464,
+      "in_production": false,
+      "languages": [
+        "ja"
+      ],
+      "last_air_date": "2013-09-16",
+      "last_episode_to_air": {
+        "air_date": "2013-09-16",
+        "episode_number": 12,
+        "id": 917295,
+        "name": "Dogs and Scissors Require Good Handling",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "show_id": 49464,
+        "still_path": null,
+        "vote_average": 9,
+        "vote_count": 2
+      },
+      "name": "Dog & Scissors",
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "name": "AT-X",
+          "id": 173,
+          "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+          "origin_country": "JP"
+        },
+        {
+          "name": "Tokyo MX",
+          "id": 614,
+          "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+          "origin_country": "JP"
+        },
+        {
+          "name": "Sun TV",
+          "id": 817,
+          "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+          "origin_country": "JP"
+        }
+      ],
+      "number_of_episodes": 12,
+      "number_of_seasons": 1,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "犬とハサミは使いよう",
+      "overview": "A nonsense comical mystery. Harumi Kazuhito is a high school boy who loves books and is a fan of novelist Natsuno Kirihime. One day, he finds Kirihime writing at a cafe, about to be shot by a robber. He protects her from the attack but is killed instead. Through the supernatural power of a book-worm, he is reincarnated as a dachshund dog. Kazuhito (as a dog) writhes in a painful bookless life, when a sadistic woman carrying a pair of scissors offers him help. She is Kirihime herself.",
+      "popularity": 96.389,
+      "poster_path": "/6f7xiHXiqsSNByg9ZeNpOKPA5YE.jpg",
+      "production_companies": [
+        {
+          "id": 1077,
+          "logo_path": "/1tpNgC6BptieT9oF2LJ7H6pbG6S.png",
+          "name": "GONZO",
+          "origin_country": "JP"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2013-07-01",
+          "episode_count": 12,
+          "id": 55400,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": "/15cyag73ADtwctGc5ChfpCsfolZ.jpg",
+          "season_number": 1
+        }
+      ],
+      "status": "Ended",
+      "type": "Scripted",
+      "vote_average": 5.8,
+      "vote_count": 13
+    },
+    {
+      "backdrop_path": "/rL5f718Nlnl10N4LnXFVxRO2XQz.jpg",
+      "created_by": [],
+      "episode_run_time": [
+        24
+      ],
+      "first_air_date": "2004-10-05",
+      "genres": [
+        {
+          "id": 10759,
+          "name": "Action & Adventure"
+        },
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 10765,
+          "name": "Sci-Fi & Fantasy"
+        }
+      ],
+      "homepage": "http://www.tv-tokyo.co.jp/anime/bleach",
+      "id": 30984,
+      "in_production": false,
+      "languages": [
+        "ja"
+      ],
+      "last_air_date": "2012-03-27",
+      "last_episode_to_air": {
+        "air_date": "2012-03-27",
+        "episode_number": 366,
+        "id": 1517562,
+        "name": "Changing History, Unchanging Heart",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "show_id": 30984,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      "name": "Bleach",
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "name": "TV Tokyo",
+          "id": 98,
+          "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+          "origin_country": "JP"
+        }
+      ],
+      "number_of_episodes": 366,
+      "number_of_seasons": 1,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ブリーチ",
+      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+      "popularity": 113.864,
+      "poster_path": "/jLKCX4hDP5DbcsPHpOSs6CMWoNe.jpg",
+      "production_companies": [
+        {
+          "id": 3234,
+          "logo_path": "/o17H0aZzAn0qgVHY2IO3oDXVoBH.png",
+          "name": "Pierrot",
+          "origin_country": "JP"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2004-10-03",
+          "episode_count": 3,
+          "id": 42575,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 0
+        },
+        {
+          "air_date": "2004-10-05",
+          "episode_count": 366,
+          "id": 42567,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": "/2qaPoZk6SmC8gnEYJJfms0I7tOg.jpg",
+          "season_number": 1
+        }
+      ],
+      "status": "Ended",
+      "type": "Scripted",
+      "vote_average": 7.8,
+      "vote_count": 177
+    },
+    {
+      "backdrop_path": "/sGdJzjqBaMLUwzOcsz9Qe6y3D5O.jpg",
+      "created_by": [],
+      "episode_run_time": [
+        15
+      ],
+      "first_air_date": "2004-10-03",
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ],
+      "homepage": "",
+      "id": 25917,
+      "in_production": false,
+      "languages": [
+        "ja"
+      ],
+      "last_air_date": "2004-12-26",
+      "last_episode_to_air": {
+        "air_date": "2004-12-26",
+        "episode_number": 13,
+        "id": 663374,
+        "name": "A Great Struggle! A Wedding of Love and Blessings",
+        "overview": "The epilogue which showcases Shizuka moving into Haru's previous apartment, right next to the Mizuhara siblings' own apartment, and also shows a wedding commercial Emiho's brother is working on.",
+        "production_code": "",
+        "season_number": 1,
+        "show_id": 25917,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      "name": "Final Approach",
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "name": "tvk",
+          "id": 792,
+          "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+          "origin_country": "JP"
+        }
+      ],
+      "number_of_episodes": 13,
+      "number_of_seasons": 1,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "φなる・あぷろーち",
+      "overview": "Ryou Mizuhara is a normal high school student, living alone with his younger sister Akane. They were very happy together, at least until a mysterious girl crashes into their lives who introduces herself as Ryou's new fiancée.",
+      "popularity": 71.213,
+      "poster_path": "/dItQItyZ3rOyfvMtUyWcXssqCsZ.jpg",
+      "production_companies": [
+        {
+          "id": 19533,
+          "logo_path": null,
+          "name": "ZEXCS",
+          "origin_country": "JP"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2004-10-03",
+          "episode_count": 13,
+          "id": 36379,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 1
+        }
+      ],
+      "status": "Ended",
+      "type": "Scripted",
+      "vote_average": 9,
+      "vote_count": 2
+    },
+    {
+      "backdrop_path": "/nPPfk2PkrDkHN9egN8gdkJP1iVG.jpg",
+      "created_by": [
+        {
+          "id": 101361,
+          "credit_id": "5b914e4c0e0a26659c012a07",
+          "name": "Shuhei Morita",
+          "gender": 2,
+          "profile_path": "/cie2XAUghfnL5GltbKGwWeHFvLT.jpg"
+        },
+        {
+          "id": 2122972,
+          "credit_id": "5b914e8fc3a368222e0131e9",
+          "name": "Chuuji Mikasano",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "episode_run_time": [
+        24
+      ],
+      "first_air_date": "2014-07-04",
+      "genres": [
+        {
+          "id": 10759,
+          "name": "Action & Adventure"
+        },
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 80,
+          "name": "Crime"
+        }
+      ],
+      "homepage": "http://www.marv.jp/special/tokyoghoul/",
+      "id": 61374,
+      "in_production": false,
+      "languages": [
+        "ja"
+      ],
+      "last_air_date": "2018-12-25",
+      "last_episode_to_air": {
+        "air_date": "2018-12-25",
+        "episode_number": 12,
+        "id": 1605677,
+        "name": "The Final Episode",
+        "overview": "Kaneki and Furuta continue their duel below the streets of Tokyo, as CCG and Goat jointly continue fighting the members of V aboveground. Kaneki comes to terms with the events of the last several years.",
+        "production_code": "",
+        "season_number": 4,
+        "show_id": 61374,
+        "still_path": "/yOh9lvp9Q54dK19Rbuhx6MsCvwQ.jpg",
+        "vote_average": 10,
+        "vote_count": 1
+      },
+      "name": "Tokyo Ghoul",
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "name": "Tokyo MX",
+          "id": 614,
+          "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+          "origin_country": "JP"
+        }
+      ],
+      "number_of_episodes": 48,
+      "number_of_seasons": 4,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "東京喰種トーキョーグール",
+      "overview": "Ken Kaneki is a bookworm college student who meets a girl names Rize at a cafe he frequents. They're the same age and have the same interests, so they quickly become close. Little does Kaneki know that Rize is a ghoul - a kind of monster that lives by hunting and devouring human flesh. When part of her special organ - \"the red child\" - is transplanted into Kaneki, he becomes a ghoul himself, trapped in a warped world where humans are not the top of the food chain.",
+      "popularity": 86.443,
+      "poster_path": "/jUtFWNCJCflNTbvac4w6Qyzh43w.jpg",
+      "production_companies": [
+        {
+          "id": 3234,
+          "logo_path": "/o17H0aZzAn0qgVHY2IO3oDXVoBH.png",
+          "name": "Pierrot",
+          "origin_country": "JP"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2015-09-30",
+          "episode_count": 2,
+          "id": 72981,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 0
+        },
+        {
+          "air_date": "2014-07-04",
+          "episode_count": 12,
+          "id": 62764,
+          "name": "Tokyo Ghoul",
+          "overview": "The suspense horror/dark fantasy story is set in Tokyo, which is haunted by mysterious \"ghouls\" who are devouring humans. People are gripped by the fear of these ghouls whose identities are masked in mystery. An ordinary college student named Kaneki encounters Rize, a girl who is an avid reader like him, at the café he frequents. Little does he realize that his fate will change overnight.",
+          "poster_path": "/dNQDmTSLI2aiRq6BlcQNb0Wnedm.jpg",
+          "season_number": 1
+        },
+        {
+          "air_date": "2015-01-09",
+          "episode_count": 12,
+          "id": 64167,
+          "name": " Tokyo Ghoul √A",
+          "overview": "The things that go bump in the night are back for a second season – and they’re hungrier than ever! In modern day Tokyo, society lives in fear of Ghouls: mysterious creatures that look exactly like humans — yet hunger insatiably for their flesh. None of this matters to Ken Kaneki, a bookish and ordinary young man, until a dark and violent encounter turns him into the first ever Ghoul-human half breed. Trapped between two worlds, Ken must survive the violent conflicts of warring Ghoul factions, while attempting to learn more about Ghoul society, his newfound powers, and the fine line between man and monster.",
+          "poster_path": "/mwrErcHQdND2U2vhp9rkFE6wdbd.jpg",
+          "season_number": 2
+        },
+        {
+          "air_date": "2018-04-03",
+          "episode_count": 12,
+          "id": 99777,
+          "name": "Tokyo Ghoul:re",
+          "overview": "Two years have passed since the CCG's raid on Anteiku. Although the atmosphere in Tokyo has changed drastically due to the increased influence of the CCG, ghouls continue to pose a problem as they have begun taking caution, especially the terrorist organization Aogiri Tree, who acknowledge the CCG's growing threat to their existence.\n\nThe creation of a special team, known as the Quinx Squad, may provide the CCG with the push they need to exterminate Tokyo's unwanted residents. As humans who have undergone surgery in order to make use of the special abilities of ghouls, they participate in operations to eradicate the dangerous creatures. The leader of this group, Haise Sasaki, is a half-ghoul, half-human who has been trained by famed special class investigator, Kishou Arima. However, there's more to this young man than meets the eye, as unknown memories claw at his mind, slowly reminding him of the person he used to be.",
+          "poster_path": "/tPKlqfpqsQ5M5XOLZXqgSnCqE5K.jpg",
+          "season_number": 3
+        },
+        {
+          "air_date": "2018-10-09",
+          "episode_count": 12,
+          "id": 106990,
+          "name": "Tokyo Ghoul:re 2nd Season",
+          "overview": "",
+          "poster_path": "/i2jE1U4CWZ8whSGWkNTQRf2frIC.jpg",
+          "season_number": 4
+        }
+      ],
+      "status": "Ended",
+      "type": "Scripted",
+      "vote_average": 7.3,
+      "vote_count": 166
+    },
+    {
+      "backdrop_path": "/s0w8JbuNNxL1YgaHeDWih12C3jG.jpg",
+      "created_by": [
+        {
+          "id": 2287220,
+          "credit_id": "5cb0e0340e0a2626e3c4ffe3",
+          "name": "Yuusuke Murata",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1509978,
+          "credit_id": "5cb0e03fc3a3683c22accc90",
+          "name": "ONE",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "episode_run_time": [
+        24
+      ],
+      "first_air_date": "2015-10-04",
+      "genres": [
+        {
+          "id": 10759,
+          "name": "Action & Adventure"
+        },
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ],
+      "homepage": "http://onepunchman-anime.net/",
+      "id": 63926,
+      "in_production": true,
+      "languages": [
+        "ja"
+      ],
+      "last_air_date": "2019-07-02",
+      "last_episode_to_air": {
+        "air_date": "2019-07-02",
+        "episode_number": 12,
+        "id": 1732566,
+        "name": "Cleaning Up the Disciple's Mess",
+        "overview": "Silverfang and Bomb catch up with Garou while the hero hunter is battling Genos, starting a whirlwind battle that draws in more and more combatants as it marches towards its hair-raising climax!",
+        "production_code": "",
+        "season_number": 2,
+        "show_id": 63926,
+        "still_path": "/eveMaMNy7umvSlJDapm2LJERs5n.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      "name": "One-Punch Man",
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "name": "TV Tokyo",
+          "id": 98,
+          "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+          "origin_country": "JP"
+        },
+        {
+          "name": "Niconico",
+          "id": 1083,
+          "logo_path": "/rU3iJ1dHKneqKLqZ1H1lc7eNy4T.png",
+          "origin_country": "JP"
+        }
+      ],
+      "number_of_episodes": 24,
+      "number_of_seasons": 2,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ワンパンマン",
+      "overview": "Saitama is a hero who only became a hero for fun. After three years of “special” training, though, he’s become so strong that he’s practically invincible. In fact, he’s too strong—even his mightiest opponents are taken out with a single punch, and it turns out that being devastatingly powerful is actually kind of a bore. With his passion for being a hero lost along with his hair, yet still faced with new enemies every day, how much longer can he keep it going?",
+      "popularity": 87.845,
+      "poster_path": "/iE3s0lG5QVdEHOEZnoAxjmMtvne.jpg",
+      "production_companies": [
+        {
+          "id": 3464,
+          "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+          "name": "Madhouse",
+          "origin_country": "JP"
+        },
+        {
+          "id": 11884,
+          "logo_path": "/tdt6yTJFV9KIuhpqVXAMheN39W7.png",
+          "name": "J.C.Staff",
+          "origin_country": "JP"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2015-12-04",
+          "episode_count": 8,
+          "id": 74239,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": "/Aj9djDsCz29IHyq7uMy8V3ZzWvO.jpg",
+          "season_number": 0
+        },
+        {
+          "air_date": "2015-10-04",
+          "episode_count": 12,
+          "id": 70631,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": "/9uAvT6PfbyCAixlLwZBLPUAIjkd.jpg",
+          "season_number": 1
+        },
+        {
+          "air_date": "2019-04-09",
+          "episode_count": 12,
+          "id": 116885,
+          "name": "Season 2",
+          "overview": "",
+          "poster_path": "/7ItkgqDhxkOZ6wFdYwMAUXOEQDC.jpg",
+          "season_number": 2
+        }
+      ],
+      "status": "Returning Series",
+      "type": "Scripted",
+      "vote_average": 8,
+      "vote_count": 489
+    },
+    {
+      "backdrop_path": "/eRstp0xZ2xaHkl6gxfuRfOKUhPz.jpg",
+      "created_by": [
+        {
+          "id": 1325228,
+          "credit_id": "56eff359925141771a0055dc",
+          "name": "Susumu Mitsunaka",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "episode_run_time": [
+        24
+      ],
+      "first_air_date": "2014-04-06",
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ],
+      "homepage": "http://www.j-haikyu.com/anime/",
+      "id": 60863,
+      "in_production": true,
+      "languages": [
+        "ja"
+      ],
+      "last_air_date": "2016-12-09",
+      "last_episode_to_air": {
+        "air_date": "2016-12-09",
+        "episode_number": 10,
+        "id": 1246565,
+        "name": "The Battle of Concepts",
+        "overview": "The battle goes well beyond 15, as the fifth set for both teams enters the 20's. Shiratorizawa shows off individual strengths, and Karasuno continues to show the strength as a team. In a battle of volleyball philosophy, Karasuno and Shiratorizawa fight for who moves on to Nationals.",
+        "production_code": "",
+        "season_number": 3,
+        "show_id": 60863,
+        "still_path": "/fac4rp7kaBoThshC2tdYTrPlOdS.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      "name": "Haikyu!!",
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "name": "MBS",
+          "id": 94,
+          "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+          "origin_country": "JP"
+        }
+      ],
+      "number_of_episodes": 60,
+      "number_of_seasons": 4,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ハイキュー!!",
+      "overview": "Shōyō Hinata began playing volleyball after seeing the \"small giants\" who played the sport when he was in elementary school. He suffers a crushing defeat in his first and last tournament in middle school at the hands of his rival Tobio Kageyama. So, Hinata joins Kurasuno High School's volleyball team, vowing revenge against Kageyama. However, Kageyama is also on Kurasuno's team. The former rivals form a legendary combo with Hinata's mobility and Kageyama's precision ball-handling. Together, they take on the local tournaments and vow to meet Kurasuno's fated rival school in the nationals.",
+      "popularity": 75.229,
+      "poster_path": "/aXhi0b2MZWHekY402PyNjrj3LnR.jpg",
+      "production_companies": [
+        {
+          "id": 3363,
+          "logo_path": null,
+          "name": "Mainichi Broadcasting System (MBS)",
+          "origin_country": ""
+        },
+        {
+          "id": 102314,
+          "logo_path": null,
+          "name": "Selecta Visión",
+          "origin_country": ""
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2015-03-04",
+          "episode_count": 4,
+          "id": 82370,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 0
+        },
+        {
+          "air_date": "2014-04-06",
+          "episode_count": 25,
+          "id": 60937,
+          "name": "Haikyu!!",
+          "overview": "A chance event triggered Shouyou Hinata's love for volleyball. His club had no members, but somehow persevered and finally made it into its very first and final regular match of middle school, where it was steamrolled by Tobio Kageyama, a superstar player known as \"King of the Court.\" Vowing revenge, Hinata applied to the Karasuno High School volleyball club... only to come face-to-face with his hated rival, Kageyama!",
+          "poster_path": "/6GvKbKG4hYyUE2P0QXdRCcgW4A8.jpg",
+          "season_number": 1
+        },
+        {
+          "air_date": "2015-10-04",
+          "episode_count": 25,
+          "id": 71126,
+          "name": "Haikyuu!! Second Season",
+          "overview": "After losing against Aoba Jousai, the whole Karasuno team feels at a loss. Especially Kageyama and Hinata, who seem to be the most devastated about the defeat. However, the team soon cheers up when a chance for them to go to Tokyo appears. During their training camp there, Karasuno will meet new formidable opponents.",
+          "poster_path": "/poquOuB0JxQ7pg6VRl4Groqmbg8.jpg",
+          "season_number": 2
+        },
+        {
+          "air_date": "2016-10-07",
+          "episode_count": 10,
+          "id": 76038,
+          "name": "Haikyu!! Karasuno High School vs Shiratorizawa High School",
+          "overview": "After the victory against Aoba Jousai High, Karasuno High School, once called “a fallen powerhouse, a crow that can’t fly,” has finally reached the climax of the heated Spring tournament. Now, to advance to nationals, the Karasuno team has to defeat the powerhouse Shiratorizawa Academy. Karasuno’s greatest hurdle is their adversary’s ace, Wakatoshi Ushijima, the number one player in the Miyagi Prefecture, and one of the country’s top three aces.\n\nOnly the strongest team will make it to the national tournament. Since this match is the third-year players’ last chance to qualify for nationals, Karasuno has to use everything they learned during the training camp and prior matches to attain victory. Filled with restlessness and excitement, both teams are determined to come out on top in the third season of Haikyuu!!.",
+          "poster_path": "/2dcmXrg1EUD9vjRdWXc4rHkV62r.jpg",
+          "season_number": 3
+        },
+        {
+          "air_date": null,
+          "episode_count": 0,
+          "id": 120031,
+          "name": "Season 4",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 4
+        }
+      ],
+      "status": "Returning Series",
+      "type": "Scripted",
+      "vote_average": 8.1,
+      "vote_count": 37
+    },
+    {
+      "backdrop_path": "/gMnfHJ1SVagfE1RnIH1NKFwudEO.jpg",
+      "created_by": [],
+      "episode_run_time": [
+        23
+      ],
+      "first_air_date": "2017-10-12",
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 10765,
+          "name": "Sci-Fi & Fantasy"
+        }
+      ],
+      "homepage": "http://www.inuyashiki-project.com/",
+      "id": 73946,
+      "in_production": false,
+      "languages": [
+        "ja"
+      ],
+      "last_air_date": "2017-12-21",
+      "last_episode_to_air": {
+        "air_date": "2017-12-21",
+        "episode_number": 11,
+        "id": 1382017,
+        "name": "People of Earth",
+        "overview": "Finally Inuyashiki confesses his secret to his family, and gets a warm reception. Meanwhile, Shishigami visits Ando, but he leaves for anywhere because Ando condemns him as evil. A few days later, the Earth faces an unprecedented crisis.",
+        "production_code": "",
+        "season_number": 1,
+        "show_id": 73946,
+        "still_path": "/5UhCxDtYm5z2oSBz5EeJ4kPg0zn.jpg",
+        "vote_average": 9,
+        "vote_count": 1
+      },
+      "name": "Inuyashiki: Last Hero",
+      "next_episode_to_air": null,
+      "networks": [],
+      "number_of_episodes": 11,
+      "number_of_seasons": 1,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "いぬやしき",
+      "overview": "Inuyashiki Ichirou is down on his luck. While only 58 years old, his geriatric looks often have him written off as a pathetic old man by the world around him and he’s constantly ignored and disrespected by his family despite all that he’s done to support them. On top of everything else, his doctor has revealed that he has cancer and it appears that he has little time left in this world. But just when it seems things couldn’t get any worse, a blinding light in the night sky strikes the earth where Ichirou stands. He later wakes up to find himself unscathed, but he soon starts to notice that there’s something… different about himself. However, it turns out that these strange, new changes are just what Ichirou needs to take a new lease on life and now it seems like there’s nothing to stop him from being a hero worthy of the respect that he never had before… unless, that is, there was someone else out there with these same changes…",
+      "popularity": 87.299,
+      "poster_path": "/agAamqnMFuELOh3S5KAkxNCwrIU.jpg",
+      "production_companies": [
+        {
+          "id": 16071,
+          "logo_path": null,
+          "name": "DMM Films",
+          "origin_country": ""
+        },
+        {
+          "id": 2883,
+          "logo_path": "/faCTt5pKVrfcO9GmO3myu6OulAe.png",
+          "name": "Aniplex",
+          "origin_country": "JP"
+        },
+        {
+          "id": 3341,
+          "logo_path": "/dTG5dXE1kU2mpmL9BNnraffckLU.png",
+          "name": "Fuji Television Network",
+          "origin_country": "JP"
+        },
+        {
+          "id": 1778,
+          "logo_path": "/69xm6sF3JxugGVjfZfm1YY6d7EE.png",
+          "name": "Dentsu",
+          "origin_country": "JP"
+        },
+        {
+          "id": 59118,
+          "logo_path": "/3KwKCviJ67dCm7m740cdaLt1VS8.png",
+          "name": "Kodansha",
+          "origin_country": "JP"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2017-10-12",
+          "episode_count": 11,
+          "id": 92846,
+          "name": "Season 1",
+          "overview": "Inuyashiki Ichirou is down on his luck. While only 58 years old, his geriatric looks often have him written off as a pathetic old man by the world around him and he's constantly ignored and disrespected by his family despite all that he's done to support them. On top of everything else, his doctor has revealed that he has cancer and it appears that he has little time left in this world. But just when it seems things couldn't get any worse, a blinding light in the night sky strikes the earth where Ichirou stands. He later wakes up to find himself unscathed, but he soon starts to notice that there's something... different about himself. However, it turns out that these strange, new changes are just what Ichirou needs to take a new lease on life and now it seems like there's nothing to stop him from being a hero worthy of the respect that he never had before... unless, that is, there was someone else out there with these same changes...",
+          "poster_path": "/ytWcRiazuebF716mOu5WGOYrNbz.jpg",
+          "season_number": 1
+        }
+      ],
+      "status": "Ended",
+      "type": "Scripted",
+      "vote_average": 7.3,
+      "vote_count": 15
+    },
+    {
+      "backdrop_path": "/wzB24nH2iSfpZBB7Wa88Xe97K13.jpg",
+      "created_by": [
+        {
+          "id": 1353740,
+          "credit_id": "53f076910e0a2675b50030c3",
+          "name": "Naokatsu Tsuda",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "episode_run_time": [
+        24
+      ],
+      "first_air_date": "2012-10-06",
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 14,
+          "name": "Fantasy"
+        },
+        {
+          "id": 27,
+          "name": "Horror"
+        }
+      ],
+      "homepage": "http://jojo-animation.com/",
+      "id": 45790,
+      "in_production": true,
+      "languages": [
+        "ja"
+      ],
+      "last_air_date": "2019-04-20",
+      "last_episode_to_air": {
+        "air_date": "2019-04-20",
+        "episode_number": 29,
+        "id": 1791518,
+        "name": "Episode 29",
+        "overview": "",
+        "production_code": "",
+        "season_number": 5,
+        "show_id": 45790,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      "name": "JoJo's Bizarre Adventure",
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "name": "Tokyo MX",
+          "id": 614,
+          "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+          "origin_country": "JP"
+        }
+      ],
+      "number_of_episodes": 181,
+      "number_of_seasons": 5,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ジョジョの奇妙な冒険",
+      "overview": "Beginning its tale in 19th century England, young aristocrat Jonathan Joestar finds himself locked in bitter rivalry with Dio Brando, a low-born boy who Jonathan’s father took under his wing after the death of Dio’s father. Discontent with his station in life, Dio’s fathomless drive to reign over all eventually leads him to seek the supernatural powers of an ancient Aztec stone mask in the Joestars' possession – an artifact that will forever change the destiny of Dio and Jonathan for generations to come. Fifty years later, in 1938 New York City, Jonathan’s grandson Joseph Joestar must take up his grandfather’s mission and master the abilities necessary to destroy the stone mask and its immensely powerful creators, the Pillar men, who threaten humanity's very existence.",
+      "popularity": 89.468,
+      "poster_path": "/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+      "production_companies": [
+        {
+          "id": 45188,
+          "logo_path": "/aPH68PzQDtz7QorAU369IlxwgnU.png",
+          "name": "David Production",
+          "origin_country": "JP"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2017-06-28",
+          "episode_count": 2,
+          "id": 62290,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": "/d7sCHWy3va2r9BUnq9BwrH19eWk.jpg",
+          "season_number": 0
+        },
+        {
+          "air_date": "2012-10-06",
+          "episode_count": 26,
+          "id": 54261,
+          "name": "JoJo's Bizarre Adventure",
+          "overview": "Beginning its tale in 19th century England, young aristocrat Jonathan Joestar finds himself locked in bitter rivalry with Dio Brando, a low-born boy who Jonathan's father took under his wing after the death of Dio's father. Discontent with his station in life, Dio's fathomless lust to reign over all eventually leads him to seek the supernatural powers of an ancient Aztec stone mask in the Joestar's possession—an artifact that will forever change the destiny of Dio and Jonathan for generations to come. Fifty years later, in 1938 New York City, Jonathan's grandson Joseph Joestar must take up his grandfather's mission and master the abilities necessary to destroy the stone mask and its immensely powerful creators who threaten humanity's very existence, the Pillar Men.",
+          "poster_path": "/5aDGc8c2yP7aeip012vjJh2Sjd.jpg",
+          "season_number": 1
+        },
+        {
+          "air_date": "2014-04-05",
+          "episode_count": 48,
+          "id": 62288,
+          "name": "Stardust Crusaders",
+          "overview": "In a Japanese jail sits 17-year-old Jotaro Kujo: punk, fighter, delinquent...and possessed by a force beyond his control! Around the world, evil spirits are awakening: \"Stands,\" monstrous invisible creatures which give their bearers incredible powers. To save his mother's life, Jotaro must tame his dark forces and travel around the world to Cairo, Egypt, where a hundred-year-old vampire thirsts for the blood of his family. But the road is long, and an army of evil Stand Users wait to kill JoJo and his friends...",
+          "poster_path": "/ee7FWk9AjrkNSCCf898Oz5aLceF.jpg",
+          "season_number": 2
+        },
+        {
+          "air_date": "2016-04-01",
+          "episode_count": 39,
+          "id": 64407,
+          "name": "Diamond Is Unbreakable",
+          "overview": "The coastal town of Morioh is plagued by the \"Bow and Arrow,\" an ancient artifact which manifests latent stand abilities in criminals and ordinary folk alike. At the same time as they are dealing with the huge influx of stand users—both good and bad—in Morioh, high schooler Jousuke Higashikata and his friends are searching for the culprit of a series of homicides.",
+          "poster_path": "/1DddZnnLNKnzqauY2xEaclwW3DB.jpg",
+          "season_number": 3
+        },
+        {
+          "air_date": "2018-10-06",
+          "episode_count": 39,
+          "id": 105428,
+          "name": "Golden Wind",
+          "overview": "Naples, 2001. Giorno Giovanna is a small-time crook with one big dream—to become a \"Gang-Star.\" No ordinary thief, Giorno has a connection to the remarkable Joestar bloodline, and possesses a Stand named Gold Experience. His dream starts to become reality when he meets Bruno Buccellati, a mobster from the gang Passione and a fellow Stand user himself. Realizing that they share similar ideals, and both disagree with the gang's harmful affairs, Giorno reveals his goal to Bruno: with Bruno's help, he will reform Passione by overthrowing the boss.\n\nAs Giorno becomes a member of Passione, and is inducted into Bruno's squad, he discovers that it is no simple gang; its numbers are teeming with Stand users. Now confronted by other squads of differing loyalties and unpredictable caliber, their goal to change the gang from the inside out will be a tough one. Taking on these adversaries, Giorno attempts to rise through the ranks and inch closer to the boss, a man who is shrouded in mystery.",
+          "poster_path": "/i9H20qQ7vgJznc3YdGwn5mHFIIN.jpg",
+          "season_number": 4
+        },
+        {
+          "air_date": "2018-10-06",
+          "episode_count": 29,
+          "id": 121308,
+          "name": "Season 5",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 5
+        }
+      ],
+      "status": "Returning Series",
+      "type": "Scripted",
+      "vote_average": 7.2,
+      "vote_count": 63
+    },
+    {
+      "backdrop_path": "/tQItgCaJVrXhe6CsJZ5qOKpOoRQ.jpg",
+      "created_by": [
+        {
+          "id": 1286723,
+          "credit_id": "59b14d1ac3a3682c62089c3b",
+          "name": "Tatsuya Yoshihara",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1089471,
+          "credit_id": "5aed86920e0a2635a000822c",
+          "name": "Kazuyuki Fudeyasu",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "episode_run_time": [
+        23
+      ],
+      "first_air_date": "2017-10-03",
+      "genres": [
+        {
+          "id": 10759,
+          "name": "Action & Adventure"
+        },
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ],
+      "homepage": "http://bclover.jp",
+      "id": 73223,
+      "in_production": true,
+      "languages": [
+        "ja"
+      ],
+      "last_air_date": "2019-10-01",
+      "last_episode_to_air": {
+        "air_date": "2019-10-01",
+        "episode_number": 103,
+        "id": 1918127,
+        "name": "Release from Misfortune",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "show_id": 73223,
+        "still_path": "/AdBtD5KQdIDabAhG0cAULzQyE15.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      "name": "Black Clover",
+      "next_episode_to_air": {
+        "air_date": "2019-10-08",
+        "episode_number": 104,
+        "id": 1943230,
+        "name": "Lightning of Rage vs. Friends",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "show_id": 73223,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      "networks": [
+        {
+          "name": "TV Tokyo",
+          "id": 98,
+          "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+          "origin_country": "JP"
+        }
+      ],
+      "number_of_episodes": 104,
+      "number_of_seasons": 1,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ブラッククローバー",
+      "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
+      "popularity": 98.616,
+      "poster_path": "/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
+      "production_companies": [
+        {
+          "id": 2918,
+          "logo_path": null,
+          "name": "Shueisha",
+          "origin_country": "JP"
+        },
+        {
+          "id": 3034,
+          "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+          "name": "TV Tokyo",
+          "origin_country": "JP"
+        },
+        {
+          "id": 55938,
+          "logo_path": null,
+          "name": "Avex Pictures",
+          "origin_country": ""
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2016-11-27",
+          "episode_count": 2,
+          "id": 113662,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": "/fDQ1HqwTjssp3jIRp5DcqiJfBJL.jpg",
+          "season_number": 0
+        },
+        {
+          "air_date": "2017-10-03",
+          "episode_count": 104,
+          "id": 91272,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": "/9uVc2OcVuP7VTUy7JpCCZpCiv2E.jpg",
+          "season_number": 1
+        }
+      ],
+      "status": "Returning Series",
+      "type": "Scripted",
+      "vote_average": 5.6,
+      "vote_count": 101
+    },
+    {
+      "backdrop_path": "/u8QK47ttafn3iYox9o1dKyEEhcv.jpg",
+      "created_by": [
+        {
+          "id": 1253090,
+          "credit_id": "53831b890e0a2624b400c686",
+          "name": "Tetsuya Yanagisawa",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 931451,
+          "credit_id": "5ae1bad7c3a368151d00b974",
+          "name": "Takao Yoshioka",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1345251,
+          "credit_id": "5ae1bb1a92514124be00c8d9",
+          "name": "Kenji Konuta",
+          "gender": 2,
+          "profile_path": "/doEhsiDs73Q00QgiPErn85uZCj6.jpg"
+        },
+        {
+          "id": 1319787,
+          "credit_id": "5ae1bb250e0a262a5b00d877",
+          "name": "Tooru Kitahata",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1777186,
+          "credit_id": "5ae1bb2f92514124d000d580",
+          "name": "Yoshifumi Sueda",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "episode_run_time": [
+        24
+      ],
+      "first_air_date": "2012-01-06",
+      "genres": [
+        {
+          "id": 10759,
+          "name": "Action & Adventure"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 10765,
+          "name": "Sci-Fi & Fantasy"
+        },
+        {
+          "id": 16,
+          "name": "Animation"
+        }
+      ],
+      "homepage": "http://www.haremking.tv/",
+      "id": 45950,
+      "in_production": false,
+      "languages": [
+        "ja"
+      ],
+      "last_air_date": "2018-07-03",
+      "last_episode_to_air": {
+        "air_date": "2018-07-03",
+        "episode_number": 13,
+        "id": 1534649,
+        "name": "Lion Heart of the School Festival",
+        "overview": "Issei purges the curse of his Sacred Gear and stands up once again, in his form as a Queen piece. Sairaorg and Issei duke it out in one final fist fight where winner takes all. After that, the only thing he has to worry about is his confession to Rias...",
+        "production_code": "",
+        "season_number": 4,
+        "show_id": 45950,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      "name": "High School DxD",
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "name": "AT-X",
+          "id": 173,
+          "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+          "origin_country": "JP"
+        }
+      ],
+      "number_of_episodes": 49,
+      "number_of_seasons": 4,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ハイスクールD×D",
+      "overview": "The story follows Issei Hyōdō, a dim-witted, lecherous second-year high school student who is killed by a girl on his first date ever. Issei is reincarnated as a devil, and from that day forward, he serves as an underling of Riasu, a high-level devil who is also the prettiest girl on Issei's campus.",
+      "popularity": 65.46,
+      "poster_path": "/rgDCONBvXScG4FQGqqXbf0Nc9Nk.jpg",
+      "production_companies": [
+        {
+          "id": 23917,
+          "logo_path": null,
+          "name": "TNK",
+          "origin_country": ""
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2012-03-12",
+          "episode_count": 18,
+          "id": 54360,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": "/mpjtSazIvuoCFosb8xNE8pBiGvq.jpg",
+          "season_number": 0
+        },
+        {
+          "air_date": "2012-01-06",
+          "episode_count": 12,
+          "id": 54361,
+          "name": "High School DxD",
+          "overview": "A war between heaven and hell is raging on Earth – and a hot mess of hormonal fury is raging in Issei’s pants. The guy is dying to get some action. Which is funny, since his first date ever turns into a winged monster and tries to kill him. Fortunately, ridiculously curvy redhead Rias comes to his rescue. She’s president of The Occult Research Club, a club that doesn’t actually research the occult. They are the occult – and Rias is a Devil. She takes Issei as a more-than-willing slave and begins training him to use magic in battle against the Fallen Angels, the longtime enemies of Devils everywhere. If Issei can improve his mystical skills, he’ll be able to help his hotter-than-hell master and her scorching supernatural schoolgirl friends defeat their foes. Even better, he might end up with a few sexy slaves of his own.",
+          "poster_path": "/cdnweEnp50cgv2cSEj5JZH4M0Ld.jpg",
+          "season_number": 1
+        },
+        {
+          "air_date": "2013-07-07",
+          "episode_count": 12,
+          "id": 54359,
+          "name": "High School DxD New",
+          "overview": "The devilish Harem King is back for more outrageous Oppai Battle Entertainment in the scintillating second season of High School DxD! Fans who like their hardcore action spiked with a double dose of fan service won’t be able to pry their eyes off all the scorching supernatural schoolgirls waiting for them in Season Two. So what are you waiting for? Plant yourself in front of the boob tube and watch a harem of devil hotties show you how much fun it is to be bad!",
+          "poster_path": "/uppXjs1CbiZXcROo7NJDELanzEC.jpg",
+          "season_number": 2
+        },
+        {
+          "air_date": "2015-04-04",
+          "episode_count": 12,
+          "id": 54362,
+          "name": "High School DxD BorN",
+          "overview": "The babes and boys of the Occult Research Club are Back! Lovable loser (and bust buff) Issei and his clan of bewitching beauties return for a new season of supernatural tussles and sexy shenanigans—featuring old friends and new enemies! Now that all the girls live in Issei’s home, life seems like nothing but fun and scantily-clad lounging…for now! Join Rias, Akeno, Koneko, Asia, Xenovia, Gasper, and everyone’s favorite Harem King Issei as they fight, fumble, and fondle their way through their demonic high school lives.",
+          "poster_path": "/mTncPM9mCzmWK9ypD5Zx937cenR.jpg",
+          "season_number": 3
+        },
+        {
+          "air_date": "2018-04-10",
+          "episode_count": 13,
+          "id": 98556,
+          "name": "High School DxD Hero",
+          "overview": "Fourth season of High School DxD.",
+          "poster_path": "/wNTvVXsTwb7r2QKnote89kh48zf.jpg",
+          "season_number": 4
+        }
+      ],
+      "status": "Ended",
+      "type": "Scripted",
+      "vote_average": 7.1,
+      "vote_count": 77
+    },
+    {
+      "backdrop_path": "/yNb3WNyeMlRA776yixhs3b8TvWK.jpg",
+      "created_by": [
+        {
+          "id": 1353244,
+          "credit_id": "5cba34fcc3a3683abf85d71b",
+          "name": "Yumi Hara",
+          "gender": 1,
+          "profile_path": "/hPmr7BEFQIO8IFaWHAcaFLUuSxV.jpg"
+        },
+        {
+          "id": 224413,
+          "credit_id": "5cba351892514151caf48753",
+          "name": "Satoshi Hino",
+          "gender": 2,
+          "profile_path": "/w1ZNBYG6Wuw2xCODHqk6vRs5HPH.jpg"
+        },
+        {
+          "id": 1255653,
+          "credit_id": "5cba353d0e0a261a55edb336",
+          "name": "Manami Numakura",
+          "gender": 1,
+          "profile_path": "/oWjK5YwDkIUYTeDfIL8orlfF4ai.jpg"
+        },
+        {
+          "id": 1368254,
+          "credit_id": "5cba35460e0a2641ededd18f",
+          "name": "Sumire Uesaka",
+          "gender": 1,
+          "profile_path": "/pGYWGRfpJBLKZR8S0RVXUFhDsRT.jpg"
+        },
+        {
+          "id": 992869,
+          "credit_id": "5cba3553925141066ef494a9",
+          "name": "Ayane Sakura",
+          "gender": 1,
+          "profile_path": "/bgHCKok1dEhyhzGeual7hM7EsKA.jpg"
+        },
+        {
+          "id": 936275,
+          "credit_id": "5cba358892514151caf487ac",
+          "name": "Aoi Yuki",
+          "gender": 1,
+          "profile_path": "/cIFTJFbPhN55T9WW2P064Wh8qty.jpg"
+        }
+      ],
+      "episode_run_time": [
+        25
+      ],
+      "first_air_date": "2015-07-07",
+      "genres": [
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 14,
+          "name": "Fantasy"
+        }
+      ],
+      "homepage": "http://overlord-anime.com/",
+      "id": 64196,
+      "in_production": false,
+      "languages": [
+        "ja"
+      ],
+      "last_air_date": "2018-10-02",
+      "last_episode_to_air": {
+        "air_date": "2018-10-02",
+        "episode_number": 13,
+        "id": 1578272,
+        "name": "Player vs Player",
+        "overview": "Gazef challenges Ains to a duel that is impossible to win and Ains decides to accept. The battle will soon come to an end and the fate of E-Rantel will be decided. Even amongst the bloodshed, Gazef and Ains both hold the other in deep respect.",
+        "production_code": "",
+        "season_number": 3,
+        "show_id": 64196,
+        "still_path": "/eME8ytPKK5R4asksI2DOLl2z5lF.jpg",
+        "vote_average": 10,
+        "vote_count": 1
+      },
+      "name": "Overlord",
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "name": "AT-X",
+          "id": 173,
+          "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+          "origin_country": "JP"
+        }
+      ],
+      "number_of_episodes": 39,
+      "number_of_seasons": 3,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "オーバーロード",
+      "overview": "In the year 2138, virtual reality gaming is booming. Yggdrasil, a popular online game is quietly shut down one day. However, one player named Momonga decides to not log out. Momonga is then transformed into the image of a skeleton as \"the most powerful wizard.\" The world continues to change, with non-player characters (NPCs) beginning to feel emotion. Having no parents, friends, or place in society, this ordinary young man Momonga then strives to take over the new world the game has become.",
+      "popularity": 65.849,
+      "poster_path": "/1dVyeauPEJwa4Uv6K1ESuhi8Rb6.jpg",
+      "production_companies": [
+        {
+          "id": 3464,
+          "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+          "name": "Madhouse",
+          "origin_country": "JP"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2015-08-04",
+          "episode_count": 39,
+          "id": 88922,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": "/3MDaiByobicF2croVMjp6lvMzrP.jpg",
+          "season_number": 0
+        },
+        {
+          "air_date": "2015-07-07",
+          "episode_count": 13,
+          "id": 71491,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": "/oGBKcCg6OmZbgnLcHAQGbJVzhxG.jpg",
+          "season_number": 1
+        },
+        {
+          "air_date": "2018-01-09",
+          "episode_count": 13,
+          "id": 97207,
+          "name": "Season 2",
+          "overview": "Second season of Overlord",
+          "poster_path": "/9Nc9ucs2CIH07tWiyyUUdQ1AuZj.jpg",
+          "season_number": 2
+        },
+        {
+          "air_date": "2018-07-10",
+          "episode_count": 13,
+          "id": 105924,
+          "name": "Season 3",
+          "overview": "Third season of Overlord.",
+          "poster_path": "/2EcKa3q4QhBZkDKbwVBa9o7D5Hv.jpg",
+          "season_number": 3
+        }
+      ],
+      "status": "Ended",
+      "type": "Scripted",
+      "vote_average": 7.5,
+      "vote_count": 50
+    }
+  ]
+}
